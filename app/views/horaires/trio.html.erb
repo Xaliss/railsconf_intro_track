@@ -1,0 +1,21 @@
+<h1>Lecteur Trio</h1>
+<%= form_for :Horaire, url: {action: "trio"} do |f| %>
+
+
+
+  <div class='field'>
+    <%= f.label :Station %><br />
+    <%= f.text_field :nom %>
+  </div>
+
+  <div class='actions'>
+    <%= f.submit "Recherche" %>
+  </div>
+ 
+<% end %>
+
+ Keke = <%=@retour%> 
+
+
+
+

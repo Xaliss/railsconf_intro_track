@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-feature 'User manages tasks' do
+feature 'Diverses Taches' do
   scenario 'add a task' do
     task_name = 'Mow the lawn'
 
@@ -43,4 +43,8 @@ feature 'User manages tasks' do
   def have_completed_task(task_name)
     have_css 'td.completed', text: task_name
   end
+
+
+
+
 end
