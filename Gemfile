@@ -7,6 +7,9 @@ gem 'sqlite3'
 gem 'strong_parameters'
 gem 'tp'
 gem 'therubyracer'
+gem 'xml-simple', "~> 1.1.2"
+
+
 
 group :assets do
   gem 'sass-rails', '~> 3.2.3'
@@ -16,6 +19,7 @@ end
 
 group :development do
   gem 'thin'
+ gem "net-http-persistent"
 end
 
 group :development, :test do
@@ -23,7 +27,6 @@ group :development, :test do
 end
 
 group :test do
-  gem 'capybara', '2.1.0'
   gem 'database_cleaner'
   gem 'factory_girl_rails'
   gem 'pry'
@@ -31,4 +34,7 @@ group :test do
   gem 'shoulda-matchers'
   gem 'timecop'
   gem 'webmock'
+  gem 'capybara' 
+  gem 'cucumber'
+  gem 'cucumber-rails', :require => false
 end

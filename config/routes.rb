@@ -14,6 +14,14 @@ TddIntro::Application.routes.draw do
   	post '/horaires/retour'
   	get '/horaires/trio'
   	post '/horaires/trio'
+    get '/horaires/tonnerre'
+    post '/horaires/tonnerre'
+    get '/horaires/passages'
+    post '/horaires/passages'
+
+  	get '/trios/index'
+  	post '/trios/index'
+
 
   root to: 'tasks#index'
 end

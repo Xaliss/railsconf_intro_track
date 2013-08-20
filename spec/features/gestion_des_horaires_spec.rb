@@ -2,23 +2,22 @@ require 'spec_helper'
 
 feature 'Gestion des Horaires' do
   scenario 'Consultation du serveur' do
-     visit horaires_index_path
-    consulte_page('Nouvelle Page','Liste des arrets en activite')
-    consulte_page('arrets en activite','Retour')
-    expect(page).to have_content('INDEX')
-    
+      stubz
+     visit horaires_trio_path
+      expect(body).to have_content "Jean"
+
+#      click_link "Rechercher le nom de votre arret"
+#      expect(page).to have_content "Moulin"
   end
-  scenario ' La Nouvelle Page Arrive' do
-      visit horaires_index_path
-      expect(page).to have_content('Nouvelle Page')
+ 
 
-      end
-
-def consulte_page(page,contenu)
- expect(page).to have_content( "#{page}" )   
+def consulte_page(pax,contenu)
+ expect(page).to have_content( "#{pax}" )   
  click_link ("#{contenu}")
  @ff = ("#{contenu}"  "#{page}" ) 
 end
+
+
 
 
 end

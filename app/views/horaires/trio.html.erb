@@ -1,21 +1,58 @@
 <h1>Lecteur Trio</h1>
-<%= form_for :Horaire, url: {action: "trio"} do |f| %>
+<p><%=link_to "Retour",horaires_index_path%></p>
+<%= form_tag  do   %>
+
+
+<%label_tag ('Stations commencant par les lettres: ') %>
+		<%@trio %>
+
 
 
 
   <div class='field'>
-    <%= f.label :Station %><br />
-    <%= f.text_field :nom %>
+    <%=  label_tag :Station %><br />
+    <%=  text_field_tag 'Zom' %>
   </div>
 
   <div class='actions'>
-    <%= f.submit "Recherche" %>
+    <%=  submit_tag "Recherche" %>
   </div>
  
 <% end %>
+<%=@stub%> <br /> 
+ 
+<table border=2>
+	<tr>
+	<th>Station</th>
+	
+	<th>R&eacute;seau</th>
+	<th>Identifiant</th>
+	<th>Latitude</th>
+	<th>Longitude</th>
+    </tr>
 
- Keke = <%=@retour%> 
+    <%if @li %>
+		    <%@li.each do |station|%>
+		    	<%if station['id']%>
+				    <tr>
+				   	 <%@stop=station['label']%> <!--#Renvoie le nom de l'arret -->
+				     <%@rr=station['id']%>
+				    <td><%=link_to(station['label'].force_encoding('UTF-8'), :action => 'tonnerre', :id => @rr,:sobriquet => @stop  )%></td>
+				    
+				    <td><%=station['network']%></td>
+				    <td><%=station['id']%></td>
+				    <td><%=station['x']%></td>
+				 	<td><%=station['y']%></td>
+					</tr>
+				<%end%>    
 
+
+		    <%end%>
+	<%end%>		    
+ 	<%=@xmlret %>  <!--Flash des incidents possibles -->
+ 		
+ 
+</table>
 
 
 

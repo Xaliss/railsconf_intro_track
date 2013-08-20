@@ -29,10 +29,47 @@ fill_in "trio", with: "nou"
     </div>
   <% end %>
 
-  expect(page).to_have content 'Horaire[nom'
-
+  
+expect(page).to_have content 'Horaire[nom]'
   
  Keke = {"utf8"=>"✓", "authenticity_token"=>"5qzCMzQV2FbS4HMZLdDYkzaLS4z61X5yCpss6QTc7Xo=", "Horaire"=>{"nom"=>""}, "commit"=>"Recherche", "controller"=>"horaires", "action"=>"trio"} 
 
 
     @retour =params.require(:Horaire).permit(:nom)
+
+
+    
+
+
+flash.notice = Minimum trois caracteres SVP"
+
+    cle = "a11d95b1a1e8ff54095e3d368bc6bc6ba"
+    # lignes perturbées
+    kk = "http://pt.data.tisseo.fr/linesDisrupted?key=a11d95b1a1e8ff54095e3d368bc6bc6ba"
+    # Messages postes
+    zz ="http://pt.data.tisseo.fr/messagesList?key=a11d95b1a1e8ff54095e3d368bc6bc6ba&stopPointId=3377699720883894"
+    # Tous les points d'arrets
+    pa = "http://pt.data.tisseo.fr/stopPointsList?key=a11d95b1a1e8ff54095e3d368bc6bc6ba"
+
+
+ stub_request(:get, "http://pt.data.tisseo.fr/placesList?term=").
+         with(:headers => {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,identity;q=0.3', 'Host'=>'pt.data.tisseo.fr', 'User-Agent'=>'Ruby'}).
+         to_return(:status => 200, :body => "", :headers => {})
+
+ stub_request(:get, "http://pt.data.tisseo.fr/placesList?term=").
+         with(:headers => {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,identity;q=0.3', 'Host'=>'pt.data.tisseo.fr', 'User-Agent'=>'Ruby'}).
+         to_return(:status => 200, :body => "Hallo Africa ", :headers => {})
+
+
+        <td><%=link_to(station['label'].force_encoding('UTF-8'), :action => 'tonnerre', :id => @rr,:sobriquet => @stop  )%></td>
+
+
+        railsconf_intro_track
+
+
+
+
+
+        stub_request(:get, "http://pt.data.tisseo.fr/placesList?term=").
+        with(:headers => {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,identity;q=0.3', 'Host'=>'pt.data.tisseo.fr', 'User-Agent'=>'Ruby'}).
+        to_return(:status => 200, :body => "", :headers => {})
