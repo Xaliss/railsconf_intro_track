@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departures expirationDate="2013-08-21 20:01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/DepartureBoard.xsd">
+<stop id="3377699720887282" operatorCode="25430" name="Jean Moulin"/>
+<stopArea id="1970324837189431" name="Jean Moulin" cityName="CASTANET-TOLOSAN" cityId="1688849860531049"/>
+<departure dateTime="2013-08-21 20:23:57" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-21 21:03:57" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-21 20:11:42" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Malepère" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-21 20:23:57" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-21 20:51:42" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Malepère" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-21 21:03:57" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure>
+</departures>

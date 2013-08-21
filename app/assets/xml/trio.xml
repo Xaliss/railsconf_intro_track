@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+<placesList expirationDate="2013-08-22 3:45" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/PlacesList.xsd">
+
+<place label="Esquirol (TOULOUSE)" category="Stops" key="Esquirol TOULOUSE" className="stop" x="1.444317" y="43.600390" id="1970324837184892" rank="3"  network="Tisséo">
+</place><place label="Escagarol (TOULOUSE)" category="Stops" key="Escagarol TOULOUSE" className="stop" x="1.440650" y="43.558223" id="1970324837186248" rank="4"  network="Tisséo">
+</place><place label="Eglise Escalquens (ESCALQUENS)" category="Stops" key="Eglise Escalquens ESCALQUENS" className="stop" x="1.561375" y="43.517696" id="1970324837185091" rank="5"  network="Tisséo">
+</place><place label="Gare SNCF Escalquens (ESCALQUENS)" category="Stops" key="gare de Escalquens ESCALQUENS" className="stop" x="1.542240" y="43.517482" id="1970324837185295" rank="6"  network="Tisséo">
+</place><place label="Gare SNCF Escalquens (ESCALQUENS)" category="Stops" key="Gare SNCF Escalquens ESCALQUENS" className="stop" x="1.542240" y="43.517482" id="1970324837185295" rank="7"  network="Tisséo">
+</place><place label="Place Esquirol (TOULOUSE)" category="Roads" key="Place Esquirol TOULOUSE" className="road" x="1.445522" y="43.600416"  rank="8"  >
+</place><place label="Rue de l'Esquile (TOULOUSE)" category="Roads" key="Rue de l'Esquile TOULOUSE" className="road" x="1.441197" y="43.606032"  rank="9"  >
+</place><place label="Rue Jacques-Jean Esquié (TOULOUSE)" category="Roads" key="Rue Jacques-Jean Esquié TOULOUSE" className="road" x="1.391722" y="43.580959"  rank="10"  >
+</place><place label="Escaliers (TOULOUSE)" category="Roads" key="Escaliers TOULOUSE" className="road" x="1.457570" y="43.598089"  rank="11"  >
+</place><place label="Escaliers (ESCALQUENS)" category="Roads" key="Escaliers ESCALQUENS" className="road" x="1.561236" y="43.518481"  rank="12"  >
+</place><place label="ESCALQUENS" category="Cities" key="ESCALQUENS" className="city" x="1.561375" y="43.517696"  rank="1"  >
+</place><place label="ESCANECRABE" category="Cities" key="ESCANECRABE" className="city" x="1.625862" y="43.287203"  rank="2"  >
+</place>
+</placesList>

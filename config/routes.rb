@@ -18,6 +18,7 @@ TddIntro::Application.routes.draw do
     post '/horaires/tonnerre'
     get '/horaires/passages'
     post '/horaires/passages'
+    
 
   	get '/trios/index'
   	post '/trios/index'

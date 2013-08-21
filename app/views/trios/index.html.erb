@@ -1,0 +1,17 @@
+<h1>Index Page de Trios</h1>
+<%= form_tag do   %>
+
+
+
+  <div class='field'>
+    <br /> 
+    <%=  text_field_tag 'Nom' %>
+  </div>
+
+  <div class='actions'>
+    <%=  submit_tag "Recherche" %>
+  </div>
+ 
+<% end %>
+ <%= flash[:notice] %> <br/>
+ Keke = <%=@trios%> 

@@ -73,3 +73,16 @@ flash.notice = Minimum trois caracteres SVP"
         stub_request(:get, "http://pt.data.tisseo.fr/placesList?term=").
         with(:headers => {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,identity;q=0.3', 'Host'=>'pt.data.tisseo.fr', 'User-Agent'=>'Ruby'}).
         to_return(:status => 200, :body => "", :headers => {})
+
+
+    retard("12:56:43","07:32:57")
+    should == "05:23:46"
+
+    retard("00:47:12" , "01:49:15") 
+    should == "22:57:57"
+
+
+      click_button 'Recherche'
+  expect(page).to have_content "Moulin"
+
+  

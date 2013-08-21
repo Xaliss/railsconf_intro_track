@@ -1,0 +1,43 @@
+<h1>Heures de passages:  
+ <h3>Pour la station: <%= @arret%></h3>
+<%=@retour%>
+ <%@li%>
+<table border=2>
+
+	<tr>
+    <th>Ligne</th>
+	<th>Station</th>
+	<th>Passages</th>
+	<th>Temps reel</th>
+	<th>Reseau</th>
+    </tr>
+    <%if @li %>
+            <%@proche = @li.first['dateTime'][-8..18]%>  
+            <%@li.each do |station| %>
+            <tr>
+            <td><%=station['line'][0]['shortName']%></td>      
+            <td><%=station['line'][0]['name']%></td>
+            <td><%=station['dateTime'][-8..18]%></td>
+            <%if station['realTime'] == "yes" %> 
+            <%xx = "oui"%>
+            <% else xx = "non" %>
+            <%end%> 
+            <td><center><%=xx%> </center></td>
+         	<td><%=station['line'][0]['network']%></td>
+            </tr>
+
+            <%end%>        
+    <%end%>
+    <%@xmlret  %>  <!--Flash des incidents possibles -->
+
+    <%tt= Time.now.asctime[11..18]%>
+    <%if !@proche then @proche = "rien" %>
+    <% else @proche = retard(@proche,tt).to_s%>
+    <%end%>
+    <%if @proche == "rien" || @proche == nil %>
+    <h3>Fin activit&eacute;</h3>
+     <%else%>   
+     <h3>Prochain Bus dans: <%= @proche[5..6] %>  minutes et <%=@proche[8..9] %> secondes</h3>   
+     <%end%>  
+   
+</table>
