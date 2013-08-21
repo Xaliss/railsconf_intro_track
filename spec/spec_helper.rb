@@ -34,9 +34,7 @@ stub_request(:get, "http://pt.data.tisseo.fr/placesList?term=").with(:headers =>
 
   end
 def stubH
-stub_request(:get, "http://pt.data.tisseo.fr/placesList?term=").\
-with(:headers => {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,\
-	identity;q=0.3', 'Host'=>'pt.data.tisseo.fr', 'User-Agent'=>'Ruby'}).\
-to_return(:status => 200, \
-	:body =>'app/assets/xml/stubH.xml',  :headers => {})
+       stub_request(:get, "http://pt.data.tisseo.fr/departureBoard?key=a11d95b1a1e8ff54095e3d368bc6bc6ba&stopPointId=1970324837189431").
+         with(:headers => {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,identity;q=0.3', 'Host'=>'pt.data.tisseo.fr', 'User-Agent'=>'Ruby'}).
+         to_return(:status => 200, :body => "app/assets/xml/stubH.xml", :headers => {})
 end
