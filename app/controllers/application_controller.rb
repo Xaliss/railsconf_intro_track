@@ -8,13 +8,8 @@ helper_method :retard
 
 def retard (a,b)
   
-
   	prem = a.split(':')
- 
-   
- 
   	deuce = b.split(':')
-   
    
 if !(prem && deuce) 
 	return "rien" 

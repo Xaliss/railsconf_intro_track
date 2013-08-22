@@ -29,15 +29,19 @@
             <%end%>        
     <%end%>
     <%@xmlret  %>  <!--Flash des incidents possibles -->
+                    <!-- Essayer @proche.nil?-->
 
     <%tt= Time.now.asctime[11..18]%>
-    <%if !@proche then @proche = "rien" %>
-    <% else @proche = retard(@proche,tt).to_s%>
+
+
+    <%if @proche.nil? %>
+            <h3>Fin activit&eacute;</h3>
+            <% else @proche = retard(@proche,tt).to_s%>
+            <h3>Prochain Bus dans: <%= @proche[5..6] %>  
+            minutes et <%=@proche[8..9] %> secondes</h3>   
     <%end%>
-    <%if @proche == "rien" || @proche == nil %>
-    <h3>Fin activit&eacute;</h3>
-     <%else%>   
-     <h3>Prochain Bus dans: <%= @proche[5..6] %>  minutes et <%=@proche[8..9] %> secondes</h3>   
-     <%end%>  
+      
+     
+     
    
 </table>
