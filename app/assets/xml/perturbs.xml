@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><messages expirationDate="2013-08-23 16:05" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/MessagesList.xsd"><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Ca va bouger à la rentrée !]]></title><content mode="text"><![CDATA[La métropole toulousaine s’enrichit de plusieurs milliers de nouveaux habitants chaque année, rendant nécessaire l’évolution du réseau Tisséo.
+<?xml version="1.0" encoding="UTF-8"?><messages expirationDate="2013-08-23 16:14" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/MessagesList.xsd"><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Ca va bouger à la rentrée !]]></title><content mode="text"><![CDATA[La métropole toulousaine s’enrichit de plusieurs milliers de nouveaux habitants chaque année, rendant nécessaire l’évolution du réseau Tisséo.
 	
 	Dès le 2 septembre, de nombreuses lignes de bus sont créées ou améliorées afin de permettre une desserte rapide et efficace en transports publics sur l’ensemble de la métropole.
 	
@@ -586,10 +586,13 @@ A partir du lundi 29 juillet 2013, l’ascenseur donnant accès aux quais de la
 	et Carmes (ligne B).
 	Correspondance possible avec les stations Jean Jaurès et St Cyprien - République avec la ligne 14 en passage à Esquirol.
 
+	Escalier mécanique Capitole
+En raison d'un problème technique, l’escalier mécanique montant reliant le quai central à la salle des billets est indisponible.
+	Remise en service prévue le 24 septembre 2013.
+
 	Escalier mécanique St Cyprien - République  
 En raison d’un incident technique, l’escalier mécanique intérieur menant de la salle des billets vers le quai de la station St Cyprien - République, direction Basso Cambo, est indisponible. Remise en service prévue le mardi 1er octobre 2013.
-
-	 
+ 
 Conscient de la gêne occasionnée, Tisséo met tout en œuvre pour réduire le délai d’indisponibilité de ces matériels. 
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/acces-metro</url><lineDisturbed><line name="Accès Métro - Ascenseurs et escaliers mécaniques lignes A et B" shortname="A" network="Tisséo" /><line name="Accès Métro - Ascenseurs et escaliers mécaniques lignes A et B" shortname="B" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Tram ligne T1 : Bus Relais le dimanche 25 août 2013]]></title><content mode="text"><![CDATA[
 	 Tram ligne T1 : Bus Relais le 25 août 2013
