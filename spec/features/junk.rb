@@ -85,4 +85,7 @@ flash.notice = Minimum trois caracteres SVP"
       click_button 'Recherche'
   expect(page).to have_content "Moulin"
 
-  
+
+  <%= link_to "Redirecte moi",  trios_index_path, data: {confirm: 'Hatta Boy !!'}%>
+
+

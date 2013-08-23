@@ -107,6 +107,37 @@ end
 
 #-------------------------------------------------------
 
+def perturbs
+  ll = []
+  @rr= "3377699720883894"
+  repu = "http://pt.data.tisseo.fr/messagesList?stopPointId="+@rr+"&key=a11d95b1a1e8ff54095e3d368bc6bc6ba"
+  #repu = "http://pt.data.tisseo.fr/linesDisrupted?key=a11d95b1a1e8ff54095e3d368bc6bc6ba"
+  asset1 = "app/assets/xml/perturbs.xml"
+  retourTrio  = connecte(repu)
+  xmlcompose  = compose(asset1,retourTrio)
+  ll = ll = liste_universelle_messages
+  @li = ll
+  @xmlret = "Pas de perturbations sur cette ligne"
+ 
+end
+
+#-------------------------------------------------------
+
+ def liste_universelle_messages
+      xml = File.read('app/assets/xml/perturbs.xml')
+      @xmlextraits  = xml.match (/Date=(".*?")/ )
+      @xmltdentif  = xml.match (/stop id=(".*?")/)  
+      donnees = XmlSimple.xml_in(xml)
+      toundra = []
+      donnees["message"].each do |maliste|
+      toundra << maliste
+      end
+           
+      return toundra
+       
+       
+ end
+
 #-------------------------------------------------------
 
  def index
