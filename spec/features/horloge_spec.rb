@@ -5,9 +5,9 @@ feature "Verifie un echange de donnees avec le serveur " do
 	scenario "Consulte la liste des perturbations du réseau" do
 	visit horaires_index_path
 	stub_perturbs
-	click_link "Perturbations du reseau"
-		
-	expect(page).to have_content 'ZZZZ'
+	click_link 'Perturbations du reseau'
+
+	expect(page).to have_content 'La métropole toulousaine'
 	 
 end
 

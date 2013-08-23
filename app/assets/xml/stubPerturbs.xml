@@ -1,18 +1,52 @@
-<content mode="text"><![CDATA[
-	Ligne suspendue
-Les lignes 17, 30, 44, 51, 71 sont suspendues du samedi 6 juillet au dimanche 25 août.
+<?xml version="1.0" encoding="UTF-8"?><messages expirationDate="2013-08-23 17:30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/MessagesList.xsd"><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Ca va bouger à la rentrée !]]></title><content mode="text"><![CDATA[La métropole toulousaine s’enrichit de plusieurs milliers de nouveaux habitants chaque année, rendant nécessaire l’évolution du réseau Tisséo.
+	
+	Dès le 2 septembre, de nombreuses lignes de bus sont créées ou améliorées afin de permettre une desserte rapide et efficace en transports publics sur l’ensemble de la métropole.
+	
+	Ces modifications reflètent notre volonté d’offrir un maillage de transports en commun performant et attractif, accessible à tous, reliant les grands équipements, les zones d’activités, les lieux de vie et de loisirs.
+	
+	Retrouvez toutes les informations relatives aux nouveautés de votre ligne de bus dans les dépliants.
 
-	Reprise de la ligne
-La ligne 17 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août.
-Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, les mairies
+]]></content><url>http://www.tisseo.fr/info-tisseo/ca-va-bouger-a-la-rentree</url></message><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Linéo révolutionne la ligne 16]]></title><content mode="text"><![CDATA[
+	A la rentrée, je voyage en Linéo !
+Le 2 septembre, Linéo arrive près de chez vous et révolutionne la ligne 16.
+	
+	Le service Linéo, c’est :
+	  - Un temps de trajet optimisé,
+	  - Une fréquence garantie et un confort amélioré,
+	  - Une amplitude horaire élargie
+	  - Une ligne accessible à 100%
+	
+	Pour tout savoir sur ce nouveau service, consultez le dépliant.
+Et pour connaître les nouveaux horaires, cliquez ici.
+  
+]]></content><url>http://www.tisseo.fr/info-tisseo/lineo-revolutionne-la-ligne-16</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 117 - Du nouveau dans le Muretain]]></title><content mode="text"><![CDATA[
+	Du nouveau dans le Muretain
+A partir du lundi 26 août 2013, la nouvelle ligne 117 relie Muret Gare SNCF à Potier Oncopole et offre des correspondances avec les lignes 3, 11, 50 et 52.
+La fiche horaire de la nouvelle ligne applicable au lundi 26 août 2013, est disponible dans les agences et salles d'attente Tisséo, ainsi que dans les mairies, à partir du jeudi 22 août et très prochainement sur notre site internet.
 
-	Desserte modifiée à Mondonville
-A partir du lundi 26 août 2013, l'arrêt Foyer Rural Mondonville est desservi direction Andromède Lycée uniquement.
-Une nouvelle fiche horaire de la ligne applicable au lundi 26 août 2013 intégrant cette modification est disponible à partir du jeudi 22 août, dans les agences et salles et d'attente Tisséo ainsi que dans les mairies et très prochainement sur notre site internet.
+	 
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-117</url><lineDisturbed><line name="Ligne 117 - Du nouveau dans le Muretain" shortname="117" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 116 - Du nouveau dans le Muretain]]></title><content mode="text"><![CDATA[
+	Du nouveau dans le Muretain
+A compter du lundi 2 septembre 2013, la nouvelle ligne 116 assure une liaison entre Saint-Lys Piscine et Tournefeuille Lycée et offre des correspondances avec les lignes 55, 63, 65 et 67.
+La fiche horaire de la nouvelle ligne applicable au lundi 2 septembre 2013, est disponible dans les agences et salles d'attente Tisséo, ainsi que dans les mairies, à partir du jeudi 22 août et très prochainement sur notre site internet.
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-116</url><lineDisturbed><line name="Ligne 116 - Du nouveau dans le Muretain" shortname="Collège Chaumeton 8" network="Tisséo" /><line name="Ligne 116 - Du nouveau dans le Muretain" shortname="116" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 113 - Nouvelle ligne entre Pechbonnieu et Fenouillet]]></title><content mode="text"><![CDATA[
+	Nouvelle ligne entre Pechbonnieu et Fenouillet
+A compter du lundi 2 septembre 2013, la nouvelle ligne 113 assure une liaison entre Fenouillet Croix et Pechbonnieu Collège et offre des correspondances avec les lignes 33, 59, 60, 61 et 69.
+La fiche horaire de la nouvelle ligne applicable au lundi 2 septembre 2013, est disponible dans les agences et salles d'attente Tisséo, ainsi que dans les mairies à partir du jeudi 29 août et très prochainement sur notre site internet.
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-113</url><lineDisturbed><line name="Ligne 113 - Nouvelle ligne entre Pechbonnieu et Fenouillet" shortname="113" network="Tisséo" /></lineDisturbed></message><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Vous avez 65 ans ou plus ? ]]></title><content mode="text"><![CDATA[
+	Déplacez-vous en toute liberté avec les transports en commun !
+Aller au marché, sortir avec vos petits-enfants, visiter un musée, aller au restaurant, à un match de rugby ou à un rendez-vous médical...
+	Le réseau Tisséo vous rend la ville plus facile, pour vous déplacer où vous voulez, rapidement et en sécurité.
+	
+	Gratuité, accessibilité, information...
+	Rendez-vous sur votre mini site dédié pour retrouver au même endroit  toutes les informations utiles pour vous accompagner dans vos déplacement :  Cliquez ici pour y accéder !
+ 
 
-	Arrêt supprimé
-A partir du lundi 2 septembre 2013, avec le changement d'itinéraire de la ligne 17 à Mondonville, le réseau Tisséo évolue.
-	L'arrêt "Taillandier" n'est plus desservi par la ligne 17.
-	Cet arrêt reste desservi par les TAD 118 et 120.
-	Vous pouvez vous reporter au terminus "Mondonville Eglise" de la ligne 17.
-]]></content>
+]]></content><url>http://www.tisseo.fr/info-tiss%C3%A9o/vous-avez-65-ans-ou-plus</url></message><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Bus : du nouveau dans le Muretain !]]></title><content mode="text"><![CDATA[
+	Mes futurs déplacements dans le Muretain
+A partir du 2 septembre, la desserte du territoire du Muretain* évolue.
+	Retrouvez toutes les informations pour préparer vos nouveaux déplacements dans le dépliant et sur cette page.
+ 
+*Ma commune est-elle intégrée à la Communauté d’Agglomération du Muretain ? cliquez ici.
+	  
+]]></content><url>http://www.tisseo.fr/info-reseau/info-globale-1</url></message></messages>
