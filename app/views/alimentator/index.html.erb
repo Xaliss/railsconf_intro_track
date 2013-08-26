@@ -1,0 +1,17 @@
+<h1>Alimentator Index Page</h1>
+<%=form_tag   Trip_parcoursCsv_path %>
+
+<div class='actions'>
+<%=submit_tag "Charge"%>
+</div> 
+ 
+
+
+
+
+
+
+<%@alimx.each  do |fichier| %> <br /> 
+<%=fichier%>
+<%end%>
+ 

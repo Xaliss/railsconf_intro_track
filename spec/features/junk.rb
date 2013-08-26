@@ -1,4 +1,10 @@
-def consulte_page(page,contenu)
+    if success = enreg.create(  enreg.trip_id,
+                  enreg.service_id,
+                    enreg.route_id,
+                      enreg.trip_headsign, 
+                      enreg.direction_id,
+                      enreg.shape_id )
+    enddef consulte_page(page,contenu)
  visit horaires_index_path
  expect(page).to have_content('#{contenu}')
  
@@ -86,6 +92,24 @@ flash.notice = Minimum trois caracteres SVP"
   expect(page).to have_content "Moulin"
 
 
-  <%= link_to "Redirecte moi",  trios_index_path, data: {confirm: 'Hatta Boy !!'}%>
+  <%= link_to "Redirecte moi",  trios_index_path, data: {confirm: 'Hatta Boy !!'}%>"
 
 
+        ll <<  enreg.trip_id 
+        ll <<   enreg.service_id
+        ll <<  enreg.route_id
+        ll <<  enreg.trip_headsign
+        ll <<   enreg.direction_id
+        ll <<   enreg.shape_id 
+        ll <<   compte
+
+
+
+              ll=[] 
+      enreg.id = compte 
+      enreg.trip_id=rangee[0]
+      enreg.service_id=rangee[1]
+      enreg.route_id=rangee[2]
+      enreg.trip_headsign=rangee[3] 
+      enreg.direction_id=rangee[4]
+      enreg.shape_id=rangee[5]

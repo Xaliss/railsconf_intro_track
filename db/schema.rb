@@ -11,19 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130823193402) do
-
-  create_table "routes", :force => true do |t|
-    t.integer  "route_id"
-    t.integer  "agency_id"
-    t.integer  "route_short_name"
-    t.string   "route_desc"
-    t.integer  "route_type"
-    t.string   "route_url"
-    t.string   "route_text_color"
-    t.datetime "created_at",       :null => false
-    t.datetime "updated_at",       :null => false
-  end
+ActiveRecord::Schema.define(:version => 20130823191306) do
 
   create_table "stop_times", :force => true do |t|
     t.integer  "trip_id"
@@ -57,16 +45,15 @@ ActiveRecord::Schema.define(:version => 20130823193402) do
     t.datetime "updated_at",   :null => false
     t.datetime "completed_at"
   end
-
-  create_table "trips", :force => true do |t|
-    t.integer  "trip_id"
-    t.integer  "service_id"
-    t.integer  "route_id"
-    t.string   "trip_headsign"
-    t.integer  "direction_id"
-    t.integer  "shape_id"
-    t.datetime "created_at",    :null => false
-    t.datetime "updated_at",    :null => false
-  end
-
+ 
+    create_table "trips", :force => true do |t|
+      t.integer "trip_id"
+      t.integer "service_id"
+      t.integer "route_id"
+      t.string  "trip_headsign"
+      t.integer "direction_id"
+      t.integer  "shape_id"
+      t.datetime "created_at",   :null => false
+      t.datetime "updated_at",    :null => false
+    end
 end
