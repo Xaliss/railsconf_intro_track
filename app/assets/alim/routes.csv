@@ -1,0 +1,97 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+11821949021891615,6192449487677451,1,Grand Rond / Compans - Caffarelli,Ligne Grand Rond / Compans - Caffarelli,3,,563f00,FFFFFF
+11821949021891616,6192449487677451,2,Cours Dillon / UniversitÃ© Paul Sabatier,Ligne Cours Dillon / UniversitÃ© Paul Sabatier,3,,26ceff,FFFFFF
+11821949021891617,6192449487677451,3,St Cyprien - RÃ©publique / Oncopole,Ligne St Cyprien - RÃ©publique / Oncopole,3,,660099,FFFFFF
+11821949021891618,6192449487677451,8,Basso Cambo / LycÃ©e Polyvalent,Ligne Basso Cambo / LycÃ©e Polyvalent,3,,ff5e16,FFFFFF
+11821949021891619,6192449487677451,10,Cours Dillon / MalepÃ¨re,Ligne Cours Dillon / MalepÃ¨re,3,,00c62d,FFFFFF
+11821949021891621,6192449487677451,12,Cours Dillon / Basso Cambo,Ligne Cours Dillon / Basso Cambo,3,,00c62d,FFFFFF
+11821949021891623,6192449487677451,14,Matabiau - Marengo SNCF / Basso Cambo,Ligne Matabiau - Marengo SNCF / Basso Cambo,3,,b291ff,FFFFFF
+11821949021891624,6192449487677451,15,"Jeanne d'Arc / Ã‰tats-Unis Fondeyre","Ligne Jeanne d'Arc / Ã‰tats-Unis Fondeyre",3,,8e4a05,FFFFFF
+11821949021891625,6192449487677451,16,"Sept Deniers ou Stade E Wallon / CitÃ© de l'Hers","Ligne Sept Deniers ou Stade E Wallon / CitÃ© de l'Hers",3,,26ceff,FFFFFF
+11821949021891627,6192449487677451,19,"Borderouge / Place de l'indÃ©pendance","Ligne Borderouge / Place de l'indÃ©pendance",3,,94d24d,FFFFFF
+11821949021891629,6192449487677451,20,Balma - Gramont / MontrabÃ© Stade,Ligne Balma - Gramont / MontrabÃ© Stade,3,,00c62d,FFFFFF
+11821949021891631,6192449487677451,22,Matabiau - Marengo SNCF / Gonin,Ligne Matabiau - Marengo SNCF / Gonin,3,,8e4a05,FFFFFF
+11821949021891635,6192449487677451,32,Colomiers Gare SNCF / Brax le ChÃ¢teau,Ligne Colomiers Gare SNCF / Brax le ChÃ¢teau,3,,8e4a05,FFFFFF
+11821949021891636,6192449487677451,38,Empalot / Amouroux,Ligne Empalot / Amouroux,3,,26ceff,FFFFFF
+11821949021891637,6192449487677451,39,"Argoulets / L'Union Somport","Ligne Argoulets / L'Union Somport",3,,00c62d,FFFFFF
+11821949021891638,6192449487677451,40,"Borderouge / L'Union Malbou","Ligne Borderouge / L'Union Malbou",3,,f400d0,FFFFFF
+11821949021891639,6192449487677451,41,Borderouge / Chaussas,Ligne Borderouge / Chaussas,3,,ff5e16,FFFFFF
+11821949021891640,6192449487677451,42,"Jeanne d'Arc / St Jean Clinique de l'Union","Ligne Jeanne d'Arc / St Jean Clinique de l'Union",3,,ff5e16,FFFFFF
+11821949021891641,6192449487677451,46,ArÃ¨nes / Pelletier Purpan,Ligne ArÃ¨nes / Pelletier Purpan,3,,f400d0,FFFFFF
+11821949021891642,6192449487677451,47,Basso Cambo / Portet Gare SNCF ou LycÃ©e Polyvalent,Ligne Basso Cambo / Portet Gare SNCF ou LycÃ©e Polyvalent,3,,f40002,FFFFFF
+11821949021891643,6192449487677451,48,Basso Cambo / La RamÃ©e,Ligne Basso Cambo / La RamÃ©e,3,,00c62d,FFFFFF
+11821949021891644,6192449487677451,49,Basso Cambo / Portet Gare SNCF,Ligne Basso Cambo / Portet Gare SNCF,3,,0040c4,FFFFFF
+11821949021891645,6192449487677451,50,Basso Cambo / Portet H. Boucher ou Roques Acacias,Ligne Basso Cambo / Portet H. Boucher ou Roques Acacias,3,,8e4a05,FFFFFF
+11821949021891647,6192449487677451,52,Empalot / Mairie Pinsaguel,Ligne Empalot / Mairie Pinsaguel,3,,563f00,FFFFFF
+11821949021891649,6192449487677451,54,Empalot / Gleyze-Vieille,Ligne Empalot / Gleyze-Vieille,3,,ff5e16,FFFFFF
+11821949021891650,6192449487677451,55,Colomiers Gare SNCF / Plaisance MonestiÃ©,Ligne Colomiers Gare SNCF / Plaisance MonestiÃ©,3,,f40002,FFFFFF
+11821949021891651,6192449487677451,56,UniversitÃ© Paul Sabatier / Auzeville Ã‰glise,Ligne UniversitÃ© Paul Sabatier / Auzeville Ã‰glise,3,,94d24d,FFFFFF
+11821949021891652,6192449487677451,57,Basso Cambo / Frouzins JP Sabatier,Ligne Basso Cambo / Frouzins JP Sabatier,3,,563f00,FFFFFF
+11821949021891653,6192449487677451,58,Basso Cambo / Muret LycÃ©e,Ligne Basso Cambo / Muret LycÃ©e,3,,94d24d,FFFFFF
+11821949021891654,6192449487677451,59,La Vache / Lespinasse Mairie,Ligne La Vache / Lespinasse Mairie,3,,660099,FFFFFF
+11821949021891655,6192449487677451,60,La Vache / Castelginest Buffebiau,Ligne La Vache / Castelginest Buffebiau,3,,660099,FFFFFF
+11821949021891656,6192449487677451,61,"Trois Cocus / Fonbeauzard Mairie, Montberon ou St Loup","Ligne Trois Cocus / Fonbeauzard Mairie, Montberon ou St Loup",3,,f40002,FFFFFF
+11821949021891657,6192449487677451,62,Ramonville MÃ©tro / Castanet-Tolosan,Ligne Ramonville MÃ©tro / Castanet-Tolosan,3,,26ceff,FFFFFF
+11821949021891659,6192449487677451,64,ArÃ¨nes / Colomiers LycÃ©e International,Ligne ArÃ¨nes / Colomiers LycÃ©e International,3,,563f00,FFFFFF
+11821949021891660,6192449487677451,65,ArÃ¨nes / Plaisance MonestiÃ© (par D632),Ligne ArÃ¨nes / Plaisance MonestiÃ© (par D632),3,,b291ff,FFFFFF
+11821949021891661,6192449487677451,66,St Cyprien - RÃ©publique / AÃ©roport Toulouse Blagnac,Ligne St Cyprien - RÃ©publique / AÃ©roport Toulouse Blagnac,3,,00c62d,FFFFFF
+11821949021891662,6192449487677451,67,ArÃ¨nes / Plaisance MonestiÃ© (par Marquisat),Ligne ArÃ¨nes / Plaisance MonestiÃ© (par Marquisat),3,,ffa8ff,FFFFFF
+11821949021891663,6192449487677451,68,Ramonville MÃ©tro / La Terrasse,Ligne Ramonville MÃ©tro / La Terrasse,3,,ffa8ff,FFFFFF
+11821949021891664,6192449487677451,69,La Vache / Gratentour Gravette ou BruguiÃ¨res,Ligne La Vache / Gratentour Gravette ou BruguiÃ¨res,3,,b291ff,FFFFFF
+11821949021891665,6192449487677451,70,"Jeanne d'Arc / AÃ©roconstellation","Ligne Jeanne d'Arc / AÃ©roconstellation",3,,ffa8ff,FFFFFF
+11821949021891667,6192449487677451,72,Balma - Gramont / Balma Lasbordes,Ligne Balma - Gramont / Balma Lasbordes,3,,0040c4,FFFFFF
+11821949021891668,6192449487677451,73,Borderouge / St Jean Lestang,Ligne Borderouge / St Jean Lestang,3,,f40002,FFFFFF
+11821949021891669,6192449487677451,74,Balma - Gramont / Rouffiac-Tolosan,Ligne Balma - Gramont / Rouffiac-Tolosan,3,,563f00,FFFFFF
+11821949021891670,6192449487677451,75,Argoulets / Castelmaurou Mairie,Ligne Argoulets / Castelmaurou Mairie,3,,b291ff,FFFFFF
+11821949021891671,6192449487677451,76,Argoulets / Lapeyrouse,Ligne Argoulets / Lapeyrouse,3,,8e4a05,FFFFFF
+11821949021891672,6192449487677451,77,Balma - Gramont / Fonsegrives CollÃ¨ge,Ligne Balma - Gramont / Fonsegrives CollÃ¨ge,3,,94d24d,FFFFFF
+11821949021891673,6192449487677451,78,UniversitÃ© Paul Sabatier / St Orens LycÃ©e,Ligne UniversitÃ© Paul Sabatier / St Orens LycÃ©e,3,,f40002,FFFFFF
+11821949021891674,6192449487677451,79,Ramonville MÃ©tro / LabÃ¨ge Couder ou St-Orens LycÃ©e,Ligne Ramonville MÃ©tro / LabÃ¨ge Couder ou St-Orens LycÃ©e,3,,26ceff,FFFFFF
+11821949021891675,6192449487677451,80,Rangueil / Belberaud La Balme,Ligne Rangueil / Belberaud La Balme,3,,660099,FFFFFF
+11821949021891676,6192449487677451,10s,Cours Dillon / MalepÃ¨re,Ligne Cours Dillon / MalepÃ¨re,3,,00c62d,FFFFFF
+11821949021891677,6192449487677451,201,Saint Orens / Les Varennes,Ligne Saint Orens / Les Varennes,3,,ffa8ff,FFFFFF
+11821949021891678,6192449487677451,202,Castanet Tolosan / Montbrun Lauragais,Ligne Castanet Tolosan / Montbrun Lauragais,3,,94d24d,FFFFFF
+11821949021891680,6192449487677451,204,LabÃ¨ge gare SNCF / Ayguesvives,Ligne LabÃ¨ge gare SNCF / Ayguesvives,3,,f40002,FFFFFF
+11821949021891681,6192449487677451,205,Castanet Tolosan / Ayguesvives,Ligne Castanet Tolosan / Ayguesvives,3,,26ceff,FFFFFF
+11821949021891682,6192449487677451,81,UniversitÃ© Paul Sabatier / Castanet-Tolosan,Ligne UniversitÃ© Paul Sabatier / Castanet-Tolosan,3,,f400d0,FFFFFF
+11821949021891683,6192449487677451,82,UniversitÃ© Paul Sabatier / Ramonville Midiville,Ligne UniversitÃ© Paul Sabatier / Ramonville Midiville,3,,f40002,FFFFFF
+11821949021891684,6192449487677451,83,Balma - Gramont / St Orens LycÃ©e,Ligne Balma - Gramont / St Orens LycÃ©e,3,,f400d0,FFFFFF
+11821949021891694,6192449487677451,A,Basso Cambo / Balma - Gramont,Ligne Basso Cambo / Balma - Gramont,1,,ff0000,FFFFFF
+11821949021891895,6192449487677451,43,"Argoulets / St Jean Clinique de l'Union","Ligne Argoulets / St Jean Clinique de l'Union",3,,94d24d,FFFFFF
+11821949021891896,6192449487677451,33,Argoulets / BruguiÃ¨res Mairie,Ligne Argoulets / BruguiÃ¨res Mairie,3,,26ceff,FFFFFF
+11821949021891897,6192449487677451,35,Balma - Gramont / DrÃ©mil Stade,Ligne Balma - Gramont / DrÃ©mil Stade,3,,94d24d,FFFFFF
+11821949021891898,6192449487677451,37,Jolimont / Ramonville MÃ©tro,Ligne Jolimont / Ramonville MÃ©tro,3,,ff5e16,FFFFFF
+11821949021891899,6192449487677451,105,La Vache / Bergeron / ZI Euronord,Ligne La Vache / Bergeron / ZI Euronord,3,,ffa8ff,FFFFFF
+11821949021891902,6192449487677451,AERO,Navette aÃ©roport,Ligne Navette aÃ©roport,3,,ff5e16,FFFFFF
+11821949021892003,6192449487677451,T1,AÃ©roconstellation / ArÃ¨nes,Ligne AÃ©roconstellation / ArÃ¨nes,0,,0040c4,FFFFFF
+11821949021892004,6192449487677451,B,Borderouge / Ramonville,Ligne Borderouge / Ramonville,1,,ffff00,FFFFFF
+11821949022345006,6192449487677451,109,MalepÃ¨re / Castanet-Tolosan,Ligne MalepÃ¨re / Castanet-Tolosan,3,,ff5e16,FFFFFF
+11821949022374900,6192449487677451,36,Roseraie / Borderouge,Ligne Roseraie / Borderouge,3,,8e4a05,FFFFFF
+11821949022509040,6192449487677451,21,Basso Cambo / Colomiers Airbus,Ligne Basso Cambo / Colomiers Airbus,3,,00c62d,FFFFFF
+11821949023083020,6192449487677451,34,ArÃ¨nes / UniversitÃ© Paul Sabatier,Ligne ArÃ¨nes / UniversitÃ© Paul Sabatier,3,,ff5e16,FFFFFF
+11821949023193145,6192449487677451,23,"Jeanne d'Arc / Rangueil","Ligne Jeanne d'Arc / Rangueil",3,,8e4a05,FFFFFF
+11821949023200852,6192449487677451,26,Borderouge / Launaguet Palanque,Ligne Borderouge / Launaguet Palanque,3,,8e4a05,FFFFFF
+11821949023200854,6192449487677451,27,LycÃ©e Toulouse-Lautrec / Rangueil,Ligne LycÃ©e Toulouse-Lautrec / Rangueil,3,,94d24d,FFFFFF
+11821949023200859,6192449487677451,2s,Cours Dillon / UniversitÃ© Paul Sabatier,Ligne Cours Dillon / UniversitÃ© Paul Sabatier,3,,26ceff,FFFFFF
+11821949023200862,6192449487677451,12s,Cours Dillon / Basso Cambo,Ligne Cours Dillon / Basso Cambo,3,,00c62d,FFFFFF
+11821949023200863,6192449487677451,16s,"Matabiau - Marengo SNCF / CitÃ© de l'Hers ou Sept Deniers","Ligne Matabiau - Marengo SNCF / CitÃ© de l'Hers ou Sept Deniers",3,,26ceff,FFFFFF
+11821949023200864,6192449487677451,22s,Matabiau - Marengo SNCF / Gonin,Ligne Matabiau - Marengo SNCF / Gonin,3,,8e4a05,FFFFFF
+11821949023200865,6192449487677451,38s,Cours Dillon / Amouroux,Ligne Cours Dillon / Amouroux,3,,26ceff,FFFFFF
+11821949023706503,6192449487677451,111,Ramonville MÃ©tro / ThÃ©ogone / Ramonville MÃ©tro,Ligne Ramonville MÃ©tro / ThÃ©ogone / Ramonville MÃ©tro,3,,f400d0,FFFFFF
+11821949023707108,6192449487677451,110,BarriÃ¨re de Paris / GlaciÃ¨re SesquiÃ¨res,Ligne BarriÃ¨re de Paris / GlaciÃ¨re SesquiÃ¨res,3,,26ceff,FFFFFF
+11821949023742784,6192449487677451,112,Ramonville MÃ©tro / Montjoie,Ligne Ramonville MÃ©tro / Montjoie,3,,00c62d,FFFFFF
+11821949023743333,6192449487677451,29,Grand Rond / La Vache,Ligne Grand Rond / La Vache,3,,f400d0,FFFFFF
+11821949023798567,6192449487677451,81s,UniversitÃ© Paul Sabatier / Castanet -Tolosan,Ligne UniversitÃ© Paul Sabatier / Castanet -Tolosan,3,,f400d0,FFFFFF
+11821949023946608,6192449487677451,88,Ramonville MÃ©tro / HÃ´pital Larrey,Ligne Ramonville MÃ©tro / HÃ´pital Larrey,3,,b291ff,FFFFFF
+11821949023946609,6192449487677451,114,Borderouge / Quartier Virebent,Ligne Borderouge / Quartier Virebent,3,,94d24d,FFFFFF
+11821949023946612,6192449487677451,115,St Agne - Gare SNCF / Pech David,Ligne St Agne - Gare SNCF / Pech David,3,,00c62d,FFFFFF
+11821949023989725,6192449487677451,25,Blagnac E Zola / AÃ©roport Toulouse Blagnac,Ligne Blagnac E Zola / AÃ©roport Toulouse Blagnac,3,,b291ff,FFFFFF
+11821949024037461,6192449487677451,88s,UniversitÃ© Paul Sabatier / CHR Rangueil,Ligne UniversitÃ© Paul Sabatier / CHR Rangueil,3,,b291ff,FFFFFF
+11821949024202292,6192449487677451,79s,UniversitÃ© Paul Sabatier / St-Orens LycÃ©e,Ligne UniversitÃ© Paul Sabatier / St-Orens LycÃ©e,3,,26ceff,FFFFFF
+11821949024740620,6192449487677451,63,Compans - Caffarelli / Tournefeuille LycÃ©e,Ligne Compans - Caffarelli / Tournefeuille LycÃ©e,3,,ffa8ff,FFFFFF
+11821949024910297,6192449487677451,45,"Jeanne d'Arc / Pelletier Purpan","Ligne Jeanne d'Arc / Pelletier Purpan",3,,94d24d,FFFFFF
+11821949025413195,6192449487677451,NOCT,Matabiau - Marengo SNCF / Ramonville MÃ©tro,Ligne Matabiau - Marengo SNCF / Ramonville MÃ©tro,3,,e30044,FFFFFF
+11821953316814849,6192449487677451,11,Basso Cambo - Oncopole - Saint-Agne SNCF,Ligne Basso Cambo - Oncopole - Saint-Agne SNCF,3,,ffa8ff,FFFFFF
+11821953316814850,6192449487677451,53,Basso Cambo / Tibaous,Ligne Basso Cambo / Tibaous,3,,33ffff,FFFFFF
+11821953316814851,6192449487677451,84,Balma - Gramont / Balma Bicentenaire,Ligne Balma - Gramont / Balma Bicentenaire,3,,33ffff,FFFFFF
+11821953316814852,6192449487677451,78s,UniversitÃ© Paul Sabatier / St Orens LycÃ©e,Ligne UniversitÃ© Paul Sabatier / St Orens LycÃ©e,3,,f40002,FFFFFF
