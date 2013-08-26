@@ -1,10 +1,20 @@
 <h1>Trip Index Page</h1>
+
 <%=form_tag   trips_charge_path %>
+
+<div class='field'>
+<% flash.each do |name, msg| %>
+        <%= content_tag :div, msg, id: "flash_#{name}" %>
+      <% end %>
+</div>
+
+<div class='field'>
+<%=text_field_tag :fichier%>
+</div> 
 
 <div class='actions'>
 <%=submit_tag "Charge"%>
 </div> 
- 
 
 
 
@@ -14,4 +24,5 @@
 <%@alimx.each  do |fichier| %> <br /> 
 <%=fichier%>
 <%end%>
- 
+
+ <%=@li%>

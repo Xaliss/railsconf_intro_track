@@ -113,3 +113,41 @@ flash.notice = Minimum trois caracteres SVP"
       enreg.trip_headsign=rangee[3] 
       enreg.direction_id=rangee[4]
       enreg.shape_id=rangee[5]
+
+
+      #-------------------------------------------------------
+# Va lire une flatFile en csv contenant la liste des 
+# parcours actives du reseau
+
+def self.parcoursCsv(fichier)
+
+  puts "oooooooooooooooooooooooooooooooooooooooo"
+    radical=fichier.split('.') 
+    radical=radical[0][0..-2].capitalize 
+    if success = Stop.delete_all then puts "Table videe ! Chargement commence" end
+  puts "----------------------------------------"
+
+  asset_f1 = "app/assets/alim/#{fichier}"
+  puts asset_f1
+      ll = []
+      
+      compte = 0
+      @retourCsv=CSV.parse(File.read(asset_f1),:headers => true)
+      @retourCsv.each  do |rangee|
+        parcours = find_by_id(rangee["id"]) || new
+        parcours.attributes = rangee.to_hash.slice(*accessible_attributes)
+        parcours.save!  
+        compte +=1
+        @chargement=compte
+        @compte = compte
+        puts   compte
+   
+   end
+      
+     @li = ll
+
+     
+  puts  "Base de donnees chargee avec succes. #{@compte} enregistrements"
+end
+
+#-------------------------------------------------------

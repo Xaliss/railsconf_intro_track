@@ -23,6 +23,9 @@ TddIntro::Application.routes.draw do
     post '/alimentator/index' 
    
 
+    post '/stops/charge' 
+    post '/stops/index'
+
     post '/trips/charge' 
     get '/trips/index' 
 

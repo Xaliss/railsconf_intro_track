@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><messages expirationDate="2013-08-25 17:07" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/MessagesList.xsd"><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Ca va bouger à la rentrée !]]></title><content mode="text"><![CDATA[La métropole toulousaine s’enrichit de plusieurs milliers de nouveaux habitants chaque année, rendant nécessaire l’évolution du réseau Tisséo.
+<?xml version="1.0" encoding="UTF-8"?><messages expirationDate="2013-08-26 21:57" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/MessagesList.xsd"><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Ca va bouger à la rentrée !]]></title><content mode="text"><![CDATA[La métropole toulousaine s’enrichit de plusieurs milliers de nouveaux habitants chaque année, rendant nécessaire l’évolution du réseau Tisséo.
 	
 	Dès le 2 septembre, de nombreuses lignes de bus sont créées ou améliorées afin de permettre une desserte rapide et efficace en transports publics sur l’ensemble de la métropole.
 	
@@ -552,21 +552,16 @@ De plus, la Navette Parc des Expositions (au départ du Cours Dillon) est mise e
 
 	
 	 
-]]></content><url>http://www.tisseo.fr/info-tisseo/toute-linfo-tisseo-sur-votre-smartphone-avec-mobi-tisseo-fr</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne T1 - Travaux sur la voie et horaires modifiés et nouvelle fiche horaire]]></title><content mode="text"><![CDATA[
-	Travaux sur la voie et horaires modifiés
-A partir du lundi 15 juillet 2013, la ligne T1 circule sur une voie unique entre Ancely et Servanty-Airbus en raison de travaux visant à préparer la future ligne Envol.
-Les 5 et 25 août, aucun tram ne circule en fin de soirée. Des Bus Relais sont mis en place.
+]]></content><url>http://www.tisseo.fr/info-tisseo/toute-linfo-tisseo-sur-votre-smartphone-avec-mobi-tisseo-fr</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne T1 - Nouvelle fiche horaire]]></title><content mode="text"><![CDATA[
+	Nouvelle Fiche horaire
 La nouvelle fiche horaire de la ligne tram T1 applicable le 26 août 2013, est disponible dès le 22 août, dans les agences et les salles d’attente Tisséo ainsi que les mairies.
-]]></content><url>http://www.tisseo.fr/info-reseau/ligne-t1</url><lineDisturbed><line name="Ligne T1 - Travaux sur la voie et horaires modifiés et nouvelle fiche horaire" shortname="T1" network="Tisséo" /></lineDisturbed></message><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Nouveau : calculez votre itinéraire d'adresse à adresse]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/info-reseau/ligne-t1</url><lineDisturbed><line name="Ligne T1 - Nouvelle fiche horaire" shortname="T1" network="Tisséo" /></lineDisturbed></message><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Nouveau : calculez votre itinéraire d'adresse à adresse]]></title><content mode="text"><![CDATA[
 	Le calculateur d'itinéraires Tisséo s'enrichit d'une nouvelle fonctionnalité avec le calcul d'adresse à adresse
 
 	Désormais vous pouvez saisir directement le nom d'une rue et le numéro de voirie lors de votre recherche, le calculateur vous dirigera alors vers l'arrêt le plus proche tout en vous précisant la distance piétonne à parcourir et le temps nécessaire pour y arriver.
 
 	Le calcul d'itinéraire par arrêt reste également toujours possible.
 ]]></content><url>http://www.tisseo.fr/info-tisseo/nouveau-calculateur-adresse-a-adresse</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 30 - Reprise de la ligne et nouvel itinéraire par la Zone Industrielle du Terroir]]></title><content mode="text"><![CDATA[
-	Ligne suspendue
-Les lignes 17, 30, 44, 51, 71 sont suspendues du samedi 6 juillet au dimanche 25 août.
-
 	Reprise de la ligne
 La ligne 30 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août.
 
@@ -594,167 +589,21 @@ En raison d'un problème technique, l’escalier mécanique montant reliant le q
 En raison d’un incident technique, l’escalier mécanique intérieur menant de la salle des billets vers le quai de la station St Cyprien - République, direction Basso Cambo, est indisponible. Remise en service prévue le mardi 1er octobre 2013.
  
 Conscient de la gêne occasionnée, Tisséo met tout en œuvre pour réduire le délai d’indisponibilité de ces matériels. 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/acces-metro</url><lineDisturbed><line name="Accès Métro - Ascenseurs et escaliers mécaniques lignes A et B" shortname="A" network="Tisséo" /><line name="Accès Métro - Ascenseurs et escaliers mécaniques lignes A et B" shortname="B" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Tram ligne T1 : Bus Relais le dimanche 25 août 2013]]></title><content mode="text"><![CDATA[
-	 Tram ligne T1 : Bus Relais le 25 août 2013
-Le service tram est interrompu en soirée, le dimanche 25 août 2013, en raison d’une intervention sur la voie.
-	Un Bus Relais "Arènes – Aéroconstellation" dessert les arrêts "Bus Relais".
-Horaires du Bus Relais T1 :
-DIRECTION Aéroconstellation :
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/acces-metro</url><lineDisturbed><line name="Accès Métro - Ascenseurs et escaliers mécaniques lignes A et B" shortname="A" network="Tisséo" /><line name="Accès Métro - Ascenseurs et escaliers mécaniques lignes A et B" shortname="B" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Navette Centre Ville - Prolongation de la fiche horaire et nouvel itinéraire]]></title><content mode="text"><![CDATA[
+	Prolongation de la fiche horaire
+La fiche horaire de la Navette Centre Ville applicable du 2 juillet 2012 au 3 septembre 2013 est prolongée jusqu'au mardi 17 septembre 2013.
 
-	
-		
-			
-				Arènes
-			
-				22:30
-			
-				23:00
-			
-				23:38
-			
-				00:05
-			
-				00:30
-		
-		
-			
-				Chardonnet
-			
-				22:38
-			
-				23:08
-			
-				23:46
-			
-				00:13
-			
-				00:38
-		
-		
-			
-				Place du Relais
-			
-				22:53
-			
-				23:23
-			
-				00:01
-			
-				00:28
-			
-				00:53
-		
-		
-			
-				Aéroconstellation
-			
-				23:06
-			
-				23:36
-			
-				00:14
-			
-				00:41
-			
-				01:06
-		
-	
-
- A noter qu'en raison de travaux avenue des Arènes Romaines, l'arrêt "Servanty Airbus" n'est pas desservi en direction d'Aéroconstellation uniquement. Se reporter à l'arrêt Ancely.
+	Nouvel itinéraire
+A compter du mercredi 18 septembre 2013, à partir de la rue de Rémusat, la Navette Centre Ville emprunte la rue du Taur, la place St-Sernin, la rue des Salenques, la rue de la Cité, le boulevard Armand Duportal, la rue Pargaminières et récupère son itinéraire habituel rue Gambetta.
+	Le nouvel itinéraire comprend de nouveaux arrêts Brunière, Feral, Trois Banquets, Jean Jaurès, Bellegarde, St-Sernin, Embarthe, Quai St-Pierre, Gambetta et Quai de la Daurade".
+Une nouvelle fiche horaire est disponible dès le jeudi 12 septembre 2013, dans les agences et les salles d’attente Tisséo ainsi que les mairies.
  
-DIRECTION Arènes : 
-
-	
-		
-			
-				Aéroconstellation
-			
-				21:45
-			
-				22:15
-			
-				22:45
-			
-				23:22
-			
-				23:46
-		
-		
-			
-				Place du Relais
-			
-				21:58
-			
-				22:28
-			
-				22:58
-			
-				23:35
-			
-				23:59
-		
-		
-			
-				Ancely
-			
-				22:10
-			
-				22:39
-			
-				23:09
-			
-				23:46
-			
-				00:10
-		
-		
-			
-				Casselardit
-			
-				22:17
-			
-				22:46
-			
-				23:16
-			
-				23:53
-			
-				00:23
-		
-		
-			
-				Arènes
-			
-				22:23
-			
-				22:52
-			
-				23:22
-			
-				23:59
-			
-				00:23
-		
-	
-
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/info-globale-2</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 119 - Rectificatif horaires]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/navette-centre-ville</url><lineDisturbed><line name="Navette Centre Ville - Prolongation de la fiche horaire et nouvel itinéraire" shortname="Navette Ville" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 119 - Rectificatif horaires]]></title><content mode="text"><![CDATA[
 	Rectificatif horaires
 A partir du mercredi 23 janvier 2013, de nouveaux horaires et itinéraires sont mis en place sur le TAD 119.
 	Les  départs de 7 h 00, 7 h 30, 8 h 00 et 8 h 30 sont avancés de 5 minutes.
 Certains itinéraires s’effectuent via une correspondance  (TAD ou lignes 81 et 62). 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-119</url><lineDisturbed><line name="TAD 119 - Rectificatif horaires" shortname="TAD 119" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 106 - Déviations à Balma et Flourens]]></title><content mode="text"><![CDATA[
-	Déviation à Balma
-En raison de travaux avenue Gaston Doumergue, à Balma, du 8 juillet au 25 août 2013, le TAD 106 est dévié.
-
-	
-		Arrêts non desservis : La Fount et Doumergue.
-
- 
-
-	Déviation secteur Pompidou Doumergue
-En raison de travaux secteur Pompidou Doumergue, du lundi 5 au dimanche 25 aout 2013, l’arrêt Banque Populaire n'est pas desservi par le TAD 106.  
- 
-
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-119</url><lineDisturbed><line name="TAD 119 - Rectificatif horaires" shortname="TAD 119" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 106 - Déviation à Balma ]]></title><content mode="text"><![CDATA[
 	Déviation à Balma
 En raison de travaux route de Lavaur à Balma, les 26 et 27 août 2013 entre 06 h 30 et 13 h 30, les lignes 20 (direction Montrabé Stade), 74 (direction Rouffiac-Tolosan) et le TAD 106 sont déviés.
 
@@ -762,7 +611,7 @@ En raison de travaux route de Lavaur à Balma, les 26 et 27 août 2013 entre 06 
 		Arrêt non desservi direction banlieue : ZI Montredon.
 
 Un arrêt provisoire est situé chemin de Lagarrigue (avant le rond-point de la route de Lavaur.
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-106</url><lineDisturbed><line name="TAD 106 - Déviations à Balma et Flourens" shortname="TAD 106" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 105 - Nouvel itinéraire La Vache / Saint-Jory]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-106</url><lineDisturbed><line name="TAD 106 - Déviation à Balma " shortname="TAD 106" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 105 - Nouvel itinéraire La Vache / Saint-Jory]]></title><content mode="text"><![CDATA[
 	Nouvel itinéraire La Vache / Saint-Jory
 A partir du lundi 2 septembre 2013, l'itinéraire du TAD 105 est prolongé afin de desservir la commune de Saint-Jory au départ de la station La Vache.
 
@@ -803,10 +652,9 @@ Afin d'améliorer le confort et la sécurité des voyageurs, à partir du lundi�
 Pour le confort de votre trajet sur la ligne A pendant les travaux, notamment aux heures de pointe, pensez à utiliser les stations Capitole ou Marengo - SNCF.
 	La correspondance entre les lignes A et B peut également se faire à pied entre les stations Esquirol et Carmes.
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/info-evenementielle</url></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Service tram et bus : nouvelles fiches horaires]]></title><content mode="text"><![CDATA[
-	Service tram et bus : fiches horaires hiver
-
-	Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences et les salles d’attente Tisséo ainsi que dans les mairies.
-Les autres lignes de bus ainsi que les TAD ayant des horaires applicables dès le lundi 2 septembre 2013 sont disponibles à partir du jeudi 29 août 2013 dans les agences et les salles d'attente Tisséo ainsi que les mairies. 
+	Service tram et bus : nouvelles fiches horaires
+Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, ainsi que dans les mairies.
+	Les autres lignes de bus ainsi que les TAD ayant des horaires applicables dès le lundi 2 septembre 2013 sont disponibles à partir du jeudi 29 août.
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/info-globale-3</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Lignes 81 et 81S - Déviation à Ramonville St-Agne]]></title><content mode="text"><![CDATA[
 	Déviation à Ramonville St-Agne
 En raison de travaux avenue Tolosane à Ramonville Saint-Agne, la nuit du 26 au 27 août 2013 entre 20 h 00 et 06 h 00, les lignes 81 et 81S sont déviées.
@@ -824,22 +672,14 @@ En raison de travaux, rue des Améthystes à St-Orens de Gameville, du 29 août 
 		Arrêts provisoires : intersection rues Fondargent - Améthystes et intersection rues Saphirs - Améthystes.
 		 
 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-78</url><lineDisturbed><line name="Lignes 78 et 78S - Déviation à St-Orens de Gameville" shortname="78" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 75 - Déviations à Castelmaurou et à L'Union]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-78</url><lineDisturbed><line name="Lignes 78 et 78S - Déviation à St-Orens de Gameville" shortname="78" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 75 - Déviation à Castelmaurou ]]></title><content mode="text"><![CDATA[
 	Déviation à Castelmaurou
 En raison de travaux rue du Stade, à Castelmaurou, du 26 juin au 30 août 2013, la ligne 75 est déviée direction Castelmaurou Mairie uniquement.
 
 	
 		Arrêts non desservis : Truffaut et Stade
 
- 
-
-	Déviation à L'Union
-En raison d'une fête locale, rue de Somport à L'Union, les 24 et 25 août 2013, les lignes 40 et 75 dimanche sont déviées.
-
-	
-		Arrêts non desservis : Val d'Aran, Bidart, Ronceveaux, Biarritz, Montcalm, L'Union Somport, Ctre Cial L'Union.
-
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-75</url><lineDisturbed><line name="Ligne 75 - Déviations à Castelmaurou et à L&#039;Union" shortname="75" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 74 - Déviation à balma]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-75</url><lineDisturbed><line name="Ligne 75 - Déviation à Castelmaurou " shortname="75" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 74 - Déviation à balma]]></title><content mode="text"><![CDATA[
 	Déviation à Balma
 En raison de travaux route de Lavaur à Balma, les 26 et 27 août 2013 entre 06 h 30 et 13 h 30, les lignes 20 (direction Montrabé Stade), 74 (direction Rouffiac-Tolosan) et le TAD 106 sont déviés.
 
@@ -904,13 +744,9 @@ En raison de travaux route de Mons, à Balma, du 1er juillet au 31 août 2013, l
  
  
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-72</url><lineDisturbed><line name="Ligne 72 - Déviation à Balma" shortname="72" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 71 - Reprise de la ligne]]></title><content mode="text"><![CDATA[
-	Ligne suspendue
-La ligne 71 circule en horaires vacances scolaires du 1er juillet au 5 juillet 2013 et est suspendue du 6 juillet au 25 août 2013.
-
 	Reprise de la ligne
 La ligne 71 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août. 
 Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, les mairies.
- 
  
  
  
@@ -1048,7 +884,7 @@ A partir du lundi 2 septembre 2013, l’itinéraire de la ligne 69 est modifié 
 	Une nouvelle fiche horaire tenant compte de ces modifications, est disponible dès le jeudi 29 août dans les agences et les salles d'attente Tisséo, dans les mairies, ainsi que très prochainement sur notre site internet. 
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-69</url><lineDisturbed><line name="Ligne 69 - Déviation à Castelginest" shortname="69" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 66 - Itinéraire provisoire en raison de travaux ]]></title><content mode="text"><![CDATA[
 	Itinéraire provisoire en raison de travaux
-En raison des travaux du tram Envol, la ligne conserve son itinéraire provisoire : entre Airbus Industrie et Aéroport Toulouse Blagnac, seul l’arrêt provisoire avenue Dewoitine est desservi.
+En raison des travaux du tram Envol, la ligne conserve son itinéraire provisoire entre "Airbus Industrie" et "Aéroport Toulouse-Blagnac".
 Pour rejoindre la zone aéroportuaire, vous pouvez également emprunter la Navette chantier Envol entre Pasteur - Mairie de Blagnac (tram T1) et Normandie (proche de la zone aéroportuaire) du lundi au vendredi de 7h15 à 9h30 et de 16h à 19h30.
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-66</url><lineDisturbed><line name="Ligne 66 - Itinéraire provisoire en raison de travaux " shortname="66" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[ Ligne 64 - Déviations à Colomiers]]></title><content mode="text"><![CDATA[
 	Déviation à Colomiers
@@ -1125,26 +961,1109 @@ En raison d’une manifestation sportive sur l'ancienne route Imperiale, à Por
 
 	 
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-52</url><lineDisturbed><line name="Ligne 52 - Déviation à Portet-sur-Garonne" shortname="52" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 51 - Reprise de la ligne]]></title><content mode="text"><![CDATA[
-	Ligne suspendue
-La ligne 51 circule en horaires vacances scolaires du 1er juillet au 5 juillet 2013 et est suspendue du 6 juillet au 25 août 2013.
-
 	Reprise de la ligne
 La ligne 51 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août.
-Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, les mairies
- 
-  
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-51</url><lineDisturbed><line name="Ligne 51 - Reprise de la ligne" shortname="51" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 50 - Nouvelle fiche horaire été]]></title><content mode="text"><![CDATA[
-	Nouvelle fiche horaire été
-La fiche horaire été applicable du lundi 1er juillet au dimanche 1er septembre 2013 est disponible à partir du jeudi 27 juin dans les agences et les salles d’attente Tisséo ainsi que dans les mairies.
-A noter : les horaires "lundi à vendredi" du 26 août au 30 août ne sont pas conformes.
-Veuillez vous reporter aux horaires situés sur les bornes d'information voyageurs de Basso Cambo.
- 
- 
- 
- 
+Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, ainsi que dans les mairies.
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-51</url><lineDisturbed><line name="Ligne 51 - Reprise de la ligne" shortname="51" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 50 - Erratum sur les horaires "lundi à vendredi du 26 au 30 août"]]></title><content mode="text"><![CDATA[
+	Erratum sur les horaires "lundi à vendredi du 26 au 30 août"
+Merci de ne pas tenir compte des horaires "lundi à vendredi du 26 au 30 août" de la fiche horaire de la ligne 50. Veuillez-vous reporter aux horaires ci-dessous :
 
-	 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-50</url><lineDisturbed><line name="Ligne 50 - Nouvelle fiche horaire été" shortname="50" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 49 - Nouvel itinéraire par la Z.I. Thibaud et arrêts supprimés]]></title><content mode="text"><![CDATA[
+	
+		
+			
+				DIRECTION PORTET H. BOUCHER
+		
+		
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Basso Cambo
+			
+				07:00
+			
+				07:31
+			
+				08:00
+			
+				08:24
+			
+				08:43
+			
+				09:08
+			
+				09:33
+			
+				10:02
+			
+				10:18
+			
+				10:50
+			
+				11:11
+			
+				11:44
+			
+				12:01
+			
+				12:20
+			
+				12:52
+			
+				13:18
+			
+				13:45
+			
+				14:10
+		
+		
+			
+				Thibaud
+			
+				07:07
+			
+				07:39
+			
+				08:08
+			
+				08:32
+			
+				08:51
+			
+				09:16
+			
+				09:41
+			
+				10:10
+			
+				10:26
+			
+				10:58
+			
+				11:19
+			
+				11:52
+			
+				12:09
+			
+				12:27
+			
+				12:59
+			
+				13:25
+			
+				13:53
+			
+				14:18
+		
+		
+			
+				Palanques
+			
+				07:16
+			
+				07:48
+			
+				08:17
+			
+				08:41
+			
+				09:00
+			
+				09:25
+			
+				09:50
+			
+				10:19
+			
+				10:35
+			
+				11:07
+			
+				11:28
+			
+				12:01
+			
+				12:18
+			
+				12:36
+			
+				13:08
+			
+				13:34
+			
+				14:02
+			
+				14:27
+		
+		
+			
+				Lotissement Impérial
+			
+				07:27
+			
+				07:59
+			
+				08:28
+			
+				08:52
+			
+				09:11
+			
+				09:36
+			
+				10:01
+			
+				10:30
+			
+				10:46
+			
+				11:18
+			
+				11:39
+			
+				12:12
+			
+				12:29
+			
+				12:47
+			
+				13:19
+			
+				13:45
+			
+				14:13
+			
+				14:38
+		
+		
+			
+				Portet H. Boucher
+			
+				.....
+			
+				08:00
+			
+				08:29
+			
+				08:53
+			
+				.....
+			
+				09:37
+			
+				10:02
+			
+				10:31
+			
+				.....
+			
+				11:19
+			
+				11:40
+			
+				12:13
+			
+				12:30
+			
+				.....
+			
+				13:20
+			
+				13:46
+			
+				14:14
+			
+				14:39
+		
+		
+			
+				Roques Acacias
+			
+				07:37
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				09:22
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				10:57
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				12:57
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				.....
+		
+		
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Basso Cambo
+			
+				14:28
+			
+				14:58
+			
+				15:26
+			
+				15:56
+			
+				16:22
+			
+				16:48
+			
+				17:22
+			
+				17:55
+			
+				18:18
+			
+				18:55
+			
+				19:24
+			
+				19:45
+			
+				20:05
+			
+				20:35
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Thibaud
+			
+				14:36
+			
+				15:06
+			
+				15:34
+			
+				16:04
+			
+				16:30
+			
+				16:56
+			
+				17:30
+			
+				18:03
+			
+				18:26
+			
+				19:03
+			
+				19:31
+			
+				19:52
+			
+				20:11
+			
+				20:41
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Palanques
+			
+				14:45
+			
+				15:15
+			
+				15:43
+			
+				16:15
+			
+				16:41
+			
+				17:07
+			
+				17:41
+			
+				18:14
+			
+				18:37
+			
+				19:11
+			
+				19:39
+			
+				20:00
+			
+				20:19
+			
+				20:49
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Lotissement Impérial
+			
+				14:56
+			
+				15:26
+			
+				15:54
+			
+				16:27
+			
+				16:53
+			
+				17:19
+			
+				17:53
+			
+				18:26
+			
+				18:49
+			
+				19:22
+			
+				19:50
+			
+				20:09
+			
+				20:28
+			
+				20:58
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Portet H. Boucher
+			
+				.....
+			
+				15:27
+			
+				15:55
+			
+				16:28
+			
+				.....
+			
+				17:20
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				19:23
+			
+				.....
+			
+				.....
+			
+				20:29
+			
+				20:59
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Roques Acacias
+			
+				15:07
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				17:04
+			
+				.....
+			
+				18:04
+			
+				18:37
+			
+				19:00
+			
+				.....
+			
+				19:59
+			
+				20:19
+			
+				.....
+			
+				.....
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				DIRECTION BASSO CAMBO
+		
+		
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Roques Acacias
+			
+				.....
+			
+				06:50
+			
+				.....
+			
+				07:42
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				09:28
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				11:02
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				13:03
+			
+				.....
+		
+		
+			
+				Portet H. Boucher
+			
+				06:30
+			
+				06:57
+			
+				07:25
+			
+				07:50
+			
+				08:06
+			
+				08:38
+			
+				08:58
+			
+				09:37
+			
+				09:43
+			
+				10:14
+			
+				10:36
+			
+				11:11
+			
+				11:25
+			
+				11:50
+			
+				12:20
+			
+				12:40
+			
+				13:11
+			
+				13:30
+		
+		
+			
+				Palanques
+			
+				06:41
+			
+				07:08
+			
+				07:36
+			
+				08:01
+			
+				08:17
+			
+				08:49
+			
+				09:09
+			
+				09:48
+			
+				09:54
+			
+				10:25
+			
+				10:47
+			
+				11:22
+			
+				11:36
+			
+				12:01
+			
+				12:31
+			
+				12:51
+			
+				13:22
+			
+				13:41
+		
+		
+			
+				Thibaud
+			
+				06:50
+			
+				07:17
+			
+				07:45
+			
+				08:11
+			
+				08:27
+			
+				08:59
+			
+				09:19
+			
+				09:58
+			
+				10:04
+			
+				10:35
+			
+				10:57
+			
+				11:32
+			
+				11:46
+			
+				12:11
+			
+				12:41
+			
+				13:01
+			
+				13:31
+			
+				13:50
+		
+		
+			
+				Basso Cambo
+			
+				06:55
+			
+				07:22
+			
+				07:51
+			
+				08:17
+			
+				08:33
+			
+				09:05
+			
+				09:25
+			
+				10:04
+			
+				10:10
+			
+				10:41
+			
+				11:03
+			
+				11:38
+			
+				11:52
+			
+				12:17
+			
+				12:47
+			
+				13:07
+			
+				13:36
+			
+				13:55
+		
+		
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Roques Acacias
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				15:12
+			
+				.....
+			
+				.....
+			
+				.....
+			
+				17:10
+			
+				.....
+			
+				18:11
+			
+				18:43
+			
+				19:05
+			
+				.....
+			
+				20:04
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Portet H. Boucher
+			
+				13:55
+			
+				14:20
+			
+				14:45
+			
+				15:20
+			
+				15:38
+			
+				16:05
+			
+				16:40
+			
+				17:19
+			
+				17:30
+			
+				18:20
+			
+				18:51
+			
+				19:13
+			
+				19:30
+			
+				20:12
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Palanques
+			
+				14:07
+			
+				14:32
+			
+				14:57
+			
+				15:32
+			
+				15:51
+			
+				16:18
+			
+				16:53
+			
+				17:32
+			
+				17:43
+			
+				18:33
+			
+				19:02
+			
+				19:24
+			
+				19:41
+			
+				20:23
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Thibaud
+			
+				14:16
+			
+				14:41
+			
+				15:06
+			
+				15:43
+			
+				16:02
+			
+				16:29
+			
+				17:04
+			
+				17:43
+			
+				17:54
+			
+				18:42
+			
+				19:11
+			
+				19:33
+			
+				19:50
+			
+				20:32
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				Basso Cambo
+			
+				14:23
+			
+				14:48
+			
+				15:13
+			
+				15:50
+			
+				16:09
+			
+				16:36
+			
+				17:11
+			
+				17:50
+			
+				18:01
+			
+				18:48
+			
+				19:17
+			
+				19:39
+			
+				19:56
+			
+				20:38
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+	
+	
+		
+		
+	
+
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-50</url><lineDisturbed><line name="Ligne 50 - Erratum sur les horaires &quot;lundi à vendredi du 26 au 30 août&quot;" shortname="50" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 49 - Nouvel itinéraire par la Z.I. Thibaud et arrêts supprimés]]></title><content mode="text"><![CDATA[
 	Nouvel itinéraire par la Z.I. Thibaud
 A partit du lundi 2 septembre 2013, l’itinéraire de la ligne 49 est modifié pour mieux desservir la Zone Industrielle Thibaud (arrêts Champollion, Boudeville et Damoysel).
 La nouvelle fiche horaire de la ligne applicable au lundi 2 septembre 2013, intégrant ces modifications est disponible dès le jeudi 29 août, dans les agences et les salles d’attente Tisséo, les mairies et très prochainement sur notre site internet.
@@ -1163,1970 +2082,32 @@ En raison de travaux route de Portet à Villeneuve-Tolosane, du 31 juillet au 
 	
 		Arrêts provisoires : situés sur le chemin de la Vimona à proximité de l'arrêt Rossignolis et sur le chemin de Côte Goubard à proximité de l'arrêt Pradié.
 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-47</url><lineDisturbed><line name="Ligne 47 - Déviation à Villeneuve-Tolosane" shortname="47" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 44 - Reprise de la ligne]]></title><content mode="text"><![CDATA[
-	Ligne suspendue
-La ligne 44 circule en horaires vacances scolaires du 1er juillet au 5 juillet 2013 et est suspendue du 6 juillet au 25 août 2013.
-
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-47</url><lineDisturbed><line name="Ligne 47 - Déviation à Villeneuve-Tolosane" shortname="47" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 44 - Reprise de la ligne et déviation rue de Bayard]]></title><content mode="text"><![CDATA[
 	Reprise de la ligne
 La ligne 44 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août.
-Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, les mairies
+Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, ainsi que dans les mairies.
  
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-44</url><lineDisturbed><line name="Ligne 44 - Reprise de la ligne" shortname="44" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 42 - Déviation rue de Bayard]]></title><content mode="text"><![CDATA[
+
 	Déviation rue de Bayard
-En raison de travaux rue Bayard, à Toulouse, du 9 juillet au 30 août 2013, la ligne 42 est déviée en direction de Jeanne d'Arc.
+En raison de travaux rue de Bayard à Toulouse, du 26 au 30 août 2013, les lignes 42 et 44 sont déviées en direction de Jeanne d'Arc.
 
 	
-		Arrêts non desservis :  Bonrepos, Place Schuman, Jeanne d'Arc Bayard.
-		 
+		Arrêts non desservis : Bonrepos, Place Schuman, Jeanne d'Arc Bayard.
 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-42</url><lineDisturbed><line name="Ligne 42 - Déviation rue de Bayard" shortname="42" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 40 - Déviation à L'Union]]></title><content mode="text"><![CDATA[
-	Déviation à L'Union
-En raison d'une fête locale, rue de Somport à L'Union, les 24 et 25 août 2013, les lignes 40 et 75 dimanche sont déviées.
-
-	
-		Arrêts non desservis : Val d'Aran, Bidart, Ronceveaux, Biarritz, Montcalm, L'Union Somport, Ctre Cial L'Union.
-
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-40</url><lineDisturbed><line name="Ligne 40 - Déviation à L&#039;Union" shortname="40" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 37 - Rectificatif horaires "lundi à samedi" du 8 juillet au 24 août 2013, modification itinéraire dimanches et arrêts supprimés]]></title><content mode="text"><![CDATA[
-	Rectificatif horaires "lundi à samedi" du 8 juillet au 24 août 2013 
-En raison d'une modification apportée aux horaires appliqués en été, merci de consulter les horaires en cours ci-dessous.
- 
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-44</url><lineDisturbed><line name="Ligne 44 - Reprise de la ligne et déviation rue de Bayard" shortname="44" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 42 - Déviation rue de Bayard]]></title><content mode="text"><![CDATA[
+	Déviation rue de Bayard
+En raison de travaux rue de Bayard à Toulouse, du 26 au 30 août 2013, les lignes 42 et 44 sont déviées en direction de Jeanne d'Arc.
 
 	
-		DIRECTION RAMONVILLE METRO
-		Du Lundi au Samedi du 8 juillet au 24 août 2013.
-		 
-	
-		
-			
-				Jolimont
-			
-				06:00
-			
-				06:30
-			
-				06:55
-			
-				07:15
-			
-				07:35
-			
-				07:55
-			
-				08:15
-			
-				08:35
-			
-				09:00
-			
-				09:30
-			
-				10:00
-			
-				10:30
-			
-				11:00
-			
-				11:30
-			
-				12:00
-			
-				12:30
-			
-				13:00
-			
-				13:30
-		
-		
-			
-				Coquille
-			
-				06:04
-			
-				06:34
-			
-				06:59
-			
-				07:19
-			
-				07:39
-			
-				07:59
-			
-				08:19
-			
-				08:39
-			
-				09:04
-			
-				09:34
-			
-				10:04
-			
-				10:34
-			
-				11:04
-			
-				11:34
-			
-				12:04
-			
-				12:34
-			
-				13:04
-			
-				13:34
-		
-		
-			
-				Cité de l'Espace
-			
-				06:13
-			
-				06:43
-			
-				07:08
-			
-				07:28
-			
-				07:48
-			
-				08:08
-			
-				08:28
-			
-				08:48
-			
-				09:14
-			
-				09:44
-			
-				10:14
-			
-				10:46
-			
-				11:16
-			
-				11:46
-			
-				12:16
-			
-				12:46
-			
-				13:15
-			
-				13:45
-		
-		
-			
-				Marcel Dassault
-			
-				06:16
-			
-				06:46
-			
-				07:11
-			
-				07:31
-			
-				07:51
-			
-				08:11
-			
-				08:31
-			
-				08:51
-			
-				09:17
-			
-				09:47
-			
-				10:17
-			
-				10:49
-			
-				11:19
-			
-				11:49
-			
-				12:19
-			
-				12:49
-			
-				13:18
-			
-				13:48
-		
-		
-			
-				ENAC
-			
-				06:23
-			
-				06:53
-			
-				07:18
-			
-				07:38
-			
-				07:58
-			
-				08:18
-			
-				08:38
-			
-				08:58
-			
-				09:24
-			
-				09:54
-			
-				10:24
-			
-				10:56
-			
-				11:26
-			
-				11:56
-			
-				12:25
-			
-				12:55
-			
-				13:24
-			
-				13:54
-		
-		
-			
-				Ramonville Métro
-			
-				06:28
-			
-				06:58
-			
-				07:23
-			
-				07:43
-			
-				08:03
-			
-				08:23
-			
-				08:43
-			
-				09:03
-			
-				09:29
-			
-				09:59
-			
-				10:29
-			
-				11:01
-			
-				11:31
-			
-				12:01
-			
-				12:30
-			
-				13:00
-			
-				13:29
-			
-				13:59
-		
-		
-			
-				 
-		
-		
-			
-				Jolimont
-			
-				14:00
-			
-				14:30
-			
-				15:00
-			
-				15:30
-			
-				16:00
-			
-				16:30
-			
-				16:55
-			
-				17:15
-			
-				17:35
-			
-				17:55
-			
-				18:15
-			
-				18:35
-			
-				19:00
-			
-				19:30
-			
-				20:00
-			
-				20:30
-			
-				21:00
-		
-		
-			
-				Coquille
-			
-				14:04
-			
-				14:34
-			
-				15:04
-			
-				15:34
-			
-				16:04
-			
-				16:34
-			
-				16:59
-			
-				17:19
-			
-				17:39
-			
-				17:59
-			
-				18:19
-			
-				18:39
-			
-				19:04
-			
-				19:34
-			
-				20:04
-			
-				20:34
-			
-				21:04
-		
-		
-			
-				Cité de l'Espace
-			
-				14:15
-			
-				14:46
-			
-				15:16
-			
-				15:46
-			
-				16:16
-			
-				16:46
-			
-				17:11
-			
-				17:31
-			
-				17:51
-			
-				18:11
-			
-				18:31
-			
-				18:50
-			
-				19:15
-			
-				19:45
-			
-				20:15
-			
-				20:44
-			
-				21:14
-		
-		
-			
-				Marcel Dassault
-			
-				14:18
-			
-				14:49
-			
-				15:19
-			
-				15:49
-			
-				16:19
-			
-				16:49
-			
-				17:14
-			
-				17:34
-			
-				17:54
-			
-				18:14
-			
-				18:34
-			
-				18:53
-			
-				19:18
-			
-				19:48
-			
-				20:18
-			
-				20:47
-			
-				21:17
-		
-		
-			
-				ENAC
-			
-				14:24
-			
-				14:55
-			
-				15:25
-			
-				15:55
-			
-				16:25
-			
-				16:55
-			
-				17:20
-			
-				17:40
-			
-				18:00
-			
-				18:20
-			
-				18:40
-			
-				18:59
-			
-				19:24
-			
-				19:54
-			
-				20:24
-			
-				20:53
-			
-				21:23
-		
-		
-			
-				Ramonville Métro
-			
-				14:29
-			
-				15:00
-			
-				15:30
-			
-				16:00
-			
-				16:30
-			
-				17:00
-			
-				17:25
-			
-				17:45
-			
-				18:05
-			
-				18:25
-			
-				18:45
-			
-				19:04
-			
-				19:29
-			
-				19:59
-			
-				20:29
-			
-				20:58
-			
-				21:28
-		
-	
+		Arrêts non desservis : Bonrepos, Place Schuman, Jeanne d'Arc Bayard.
 
- 
- 
-
-	
-		DIRECTION JOLIMONT
-		Du Lundi au Samedi du 8 juillet au 24 août 2013.
-		 
-	
-		
-			
-				Ramonville Métro
-			
-				06:00
-			
-				06:30
-			
-				06:55
-			
-				07:15
-			
-				07:35
-			
-				07:55
-			
-				08:15
-			
-				08:40
-			
-				09:10
-			
-				09:40
-			
-				10:10
-			
-				10:40
-			
-				11:10
-			
-				11:40
-			
-				12:10
-			
-				12:40
-			
-				13:10
-			
-				13:40
-		
-		
-			
-				ENAC
-			
-				06:06
-			
-				06:36
-			
-				07:01
-			
-				07:21
-			
-				07:41
-			
-				08:01
-			
-				08:21
-			
-				08:46
-			
-				09:16
-			
-				09:46
-			
-				10:16
-			
-				10:46
-			
-				11:16
-			
-				11:46
-			
-				12:16
-			
-				12:46
-			
-				13:16
-			
-				13:46
-		
-		
-			
-				Marcel Dassault
-			
-				06:11
-			
-				06:41
-			
-				07:06
-			
-				07:26
-			
-				07:46
-			
-				08:06
-			
-				08:26
-			
-				08:51
-			
-				09:21
-			
-				09:51
-			
-				10:21
-			
-				10:51
-			
-				11:21
-			
-				11:51
-			
-				12:21
-			
-				12:51
-			
-				13:21
-			
-				13:51
-		
-		
-			
-				Cité de l'Espace
-			
-				06:15
-			
-				06:45
-			
-				07:10
-			
-				07:30
-			
-				07:50
-			
-				08:10
-			
-				08:30
-			
-				08:55
-			
-				09:25
-			
-				09:55
-			
-				10:25
-			
-				10:55
-			
-				11:25
-			
-				11:55
-			
-				12:25
-			
-				12:54
-			
-				13:24
-			
-				13:54
-		
-		
-			
-				Coquille
-			
-				06:25
-			
-				06:55
-			
-				07:20
-			
-				07:40
-			
-				08:01
-			
-				08:21
-			
-				08:42
-			
-				09:07
-			
-				09:37
-			
-				10:07
-			
-				10:37
-			
-				11:07
-			
-				11:37
-			
-				12:07
-			
-				12:37
-			
-				13:06
-			
-				13:36
-			
-				14:06
-		
-		
-			
-				Jolimont
-			
-				06:28
-			
-				06:58
-			
-				07:24
-			
-				07:44
-			
-				08:05
-			
-				08:25
-			
-				08:47
-			
-				09:12
-			
-				09:43
-			
-				10:13
-			
-				10:43
-			
-				11:13
-			
-				11:42
-			
-				12:12
-			
-				12:42
-			
-				13:11
-			
-				13:41
-			
-				14:11
-		
-		
-			
-				 
-		
-		
-			
-				Ramonville Métro
-			
-				14:10
-			
-				14:40
-			
-				15:10
-			
-				15:40
-			
-				16:00
-			
-				16:20
-			
-				16:40
-			
-				17:00
-			
-				17:20
-			
-				17:40
-			
-				18:00
-			
-				18:20
-			
-				18:50
-			
-				19:20
-			
-				19:50
-			
-				20:20
-			
-				20:50
-		
-		
-			
-				ENAC
-			
-				14:16
-			
-				14:46
-			
-				15:16
-			
-				15:46
-			
-				16:06
-			
-				16:26
-			
-				16:46
-			
-				17:06
-			
-				17:26
-			
-				17:46
-			
-				18:06
-			
-				18:26
-			
-				18:56
-			
-				19:26
-			
-				19:56
-			
-				20:26
-			
-				20:56
-		
-		
-			
-				Marcel Dassault
-			
-				14:21
-			
-				14:51
-			
-				15:21
-			
-				15:51
-			
-				16:11
-			
-				16:31
-			
-				16:51
-			
-				17:11
-			
-				17:31
-			
-				17:51
-			
-				18:11
-			
-				18:31
-			
-				19:01
-			
-				19:31
-			
-				20:01
-			
-				20:31
-			
-				21:00
-		
-		
-			
-				Cité de l'Espace
-			
-				14:24
-			
-				14:54
-			
-				15:24
-			
-				15:54
-			
-				16:14
-			
-				16:34
-			
-				16:54
-			
-				17:14
-			
-				17:34
-			
-				17:54
-			
-				18:14
-			
-				18:34
-			
-				19:04
-			
-				19:34
-			
-				20:04
-			
-				20:34
-			
-				21:03
-		
-		
-			
-				Coquille
-			
-				14:36
-			
-				15:06
-			
-				15:36
-			
-				16:06
-			
-				16:26
-			
-				16:46
-			
-				17:06
-			
-				17:26
-			
-				17:46
-			
-				18:06
-			
-				18:26
-			
-				18:46
-			
-				19:15
-			
-				19:45
-			
-				20:15
-			
-				20:44
-			
-				21:13
-		
-		
-			
-				Jolimont
-			
-				14:41
-			
-				15:11
-			
-				15:41
-			
-				16:11
-			
-				16:31
-			
-				16:51
-			
-				17:11
-			
-				17:31
-			
-				17:51
-			
-				18:11
-			
-				18:31
-			
-				18:51
-			
-				19:20
-			
-				19:50
-			
-				20:20
-			
-				20:49
-			
-				21:18
-		
-	
-
- 
-
-	Rectificatif horaires "lundi à samedi" du 8 juillet au 24 août 2013 
-En raison d'une modification apportée aux horaires appliqués en été, merci de consulter les horaires en cours ci-dessous.
- 
-
-	
-		DIRECTION RAMONVILLE METRO
-		Du Lundi au Samedi du 8 juillet au 24 août 2013.
-		 
-	
-		
-			
-				Jolimont
-			
-				06:00
-			
-				06:30
-			
-				06:55
-			
-				07:15
-			
-				07:35
-			
-				07:55
-			
-				08:15
-			
-				08:35
-			
-				09:00
-			
-				09:30
-			
-				10:00
-			
-				10:30
-			
-				11:00
-			
-				11:30
-			
-				12:00
-			
-				12:30
-			
-				13:00
-			
-				13:30
-		
-		
-			
-				Coquille
-			
-				06:04
-			
-				06:34
-			
-				06:59
-			
-				07:19
-			
-				07:39
-			
-				07:59
-			
-				08:19
-			
-				08:39
-			
-				09:04
-			
-				09:34
-			
-				10:04
-			
-				10:34
-			
-				11:04
-			
-				11:34
-			
-				12:04
-			
-				12:34
-			
-				13:04
-			
-				13:34
-		
-		
-			
-				Cité de l'Espace
-			
-				06:13
-			
-				06:43
-			
-				07:08
-			
-				07:28
-			
-				07:48
-			
-				08:08
-			
-				08:28
-			
-				08:48
-			
-				09:14
-			
-				09:44
-			
-				10:14
-			
-				10:46
-			
-				11:16
-			
-				11:46
-			
-				12:16
-			
-				12:46
-			
-				13:15
-			
-				13:45
-		
-		
-			
-				Marcel Dassault
-			
-				06:16
-			
-				06:46
-			
-				07:11
-			
-				07:31
-			
-				07:51
-			
-				08:11
-			
-				08:31
-			
-				08:51
-			
-				09:17
-			
-				09:47
-			
-				10:17
-			
-				10:49
-			
-				11:19
-			
-				11:49
-			
-				12:19
-			
-				12:49
-			
-				13:18
-			
-				13:48
-		
-		
-			
-				ENAC
-			
-				06:23
-			
-				06:53
-			
-				07:18
-			
-				07:38
-			
-				07:58
-			
-				08:18
-			
-				08:38
-			
-				08:58
-			
-				09:24
-			
-				09:54
-			
-				10:24
-			
-				10:56
-			
-				11:26
-			
-				11:56
-			
-				12:25
-			
-				12:55
-			
-				13:24
-			
-				13:54
-		
-		
-			
-				Ramonville Métro
-			
-				06:28
-			
-				06:58
-			
-				07:23
-			
-				07:43
-			
-				08:03
-			
-				08:23
-			
-				08:43
-			
-				09:03
-			
-				09:29
-			
-				09:59
-			
-				10:29
-			
-				11:01
-			
-				11:31
-			
-				12:01
-			
-				12:30
-			
-				13:00
-			
-				13:29
-			
-				13:59
-		
-		
-			
-				 
-		
-		
-			
-				Jolimont
-			
-				14:00
-			
-				14:30
-			
-				15:00
-			
-				15:30
-			
-				16:00
-			
-				16:30
-			
-				16:55
-			
-				17:15
-			
-				17:35
-			
-				17:55
-			
-				18:15
-			
-				18:35
-			
-				19:00
-			
-				19:30
-			
-				20:00
-			
-				20:30
-			
-				21:00
-		
-		
-			
-				Coquille
-			
-				14:04
-			
-				14:34
-			
-				15:04
-			
-				15:34
-			
-				16:04
-			
-				16:34
-			
-				16:59
-			
-				17:19
-			
-				17:39
-			
-				17:59
-			
-				18:19
-			
-				18:39
-			
-				19:04
-			
-				19:34
-			
-				20:04
-			
-				20:34
-			
-				21:04
-		
-		
-			
-				Cité de l'Espace
-			
-				14:15
-			
-				14:46
-			
-				15:16
-			
-				15:46
-			
-				16:16
-			
-				16:46
-			
-				17:11
-			
-				17:31
-			
-				17:51
-			
-				18:11
-			
-				18:31
-			
-				18:50
-			
-				19:15
-			
-				19:45
-			
-				20:15
-			
-				20:44
-			
-				21:14
-		
-		
-			
-				Marcel Dassault
-			
-				14:18
-			
-				14:49
-			
-				15:19
-			
-				15:49
-			
-				16:19
-			
-				16:49
-			
-				17:14
-			
-				17:34
-			
-				17:54
-			
-				18:14
-			
-				18:34
-			
-				18:53
-			
-				19:18
-			
-				19:48
-			
-				20:18
-			
-				20:47
-			
-				21:17
-		
-		
-			
-				ENAC
-			
-				14:24
-			
-				14:55
-			
-				15:25
-			
-				15:55
-			
-				16:25
-			
-				16:55
-			
-				17:20
-			
-				17:40
-			
-				18:00
-			
-				18:20
-			
-				18:40
-			
-				18:59
-			
-				19:24
-			
-				19:54
-			
-				20:24
-			
-				20:53
-			
-				21:23
-		
-		
-			
-				Ramonville Métro
-			
-				14:29
-			
-				15:00
-			
-				15:30
-			
-				16:00
-			
-				16:30
-			
-				17:00
-			
-				17:25
-			
-				17:45
-			
-				18:05
-			
-				18:25
-			
-				18:45
-			
-				19:04
-			
-				19:29
-			
-				19:59
-			
-				20:29
-			
-				20:58
-			
-				21:28
-		
-	
-
- 
- 
-
-	
-		DIRECTION JOLIMONT
-		Du Lundi au Samedi du 8 juillet au 24 août 2013.
-		  
-	
-		
-			
-				Ramonville Métro
-			
-				06:00
-			
-				06:30
-			
-				06:55
-			
-				07:15
-			
-				07:35
-			
-				07:55
-			
-				08:15
-			
-				08:40
-			
-				09:10
-			
-				09:40
-			
-				10:10
-			
-				10:40
-			
-				11:10
-			
-				11:40
-			
-				12:10
-			
-				12:40
-			
-				13:10
-			
-				13:40
-		
-		
-			
-				ENAC
-			
-				06:06
-			
-				06:36
-			
-				07:01
-			
-				07:21
-			
-				07:41
-			
-				08:01
-			
-				08:21
-			
-				08:46
-			
-				09:16
-			
-				09:46
-			
-				10:16
-			
-				10:46
-			
-				11:16
-			
-				11:46
-			
-				12:16
-			
-				12:46
-			
-				13:16
-			
-				13:46
-		
-		
-			
-				Marcel Dassault
-			
-				06:11
-			
-				06:41
-			
-				07:06
-			
-				07:26
-			
-				07:46
-			
-				08:06
-			
-				08:26
-			
-				08:51
-			
-				09:21
-			
-				09:51
-			
-				10:21
-			
-				10:51
-			
-				11:21
-			
-				11:51
-			
-				12:21
-			
-				12:51
-			
-				13:21
-			
-				13:51
-		
-		
-			
-				Cité de l'Espace
-			
-				06:15
-			
-				06:45
-			
-				07:10
-			
-				07:30
-			
-				07:50
-			
-				08:10
-			
-				08:30
-			
-				08:55
-			
-				09:25
-			
-				09:55
-			
-				10:25
-			
-				10:55
-			
-				11:25
-			
-				11:55
-			
-				12:25
-			
-				12:54
-			
-				13:24
-			
-				13:54
-		
-		
-			
-				Coquille
-			
-				06:25
-			
-				06:55
-			
-				07:20
-			
-				07:40
-			
-				08:01
-			
-				08:21
-			
-				08:42
-			
-				09:07
-			
-				09:37
-			
-				10:07
-			
-				10:37
-			
-				11:07
-			
-				11:37
-			
-				12:07
-			
-				12:37
-			
-				13:06
-			
-				13:36
-			
-				14:06
-		
-		
-			
-				Jolimont
-			
-				06:28
-			
-				06:58
-			
-				07:24
-			
-				07:44
-			
-				08:05
-			
-				08:25
-			
-				08:47
-			
-				09:12
-			
-				09:43
-			
-				10:13
-			
-				10:43
-			
-				11:13
-			
-				11:42
-			
-				12:12
-			
-				12:42
-			
-				13:11
-			
-				13:41
-			
-				14:11
-		
-		
-			
-				 
-		
-		
-			
-				Ramonville Métro
-			
-				14:10
-			
-				14:40
-			
-				15:10
-			
-				15:40
-			
-				16:00
-			
-				16:20
-			
-				16:40
-			
-				17:00
-			
-				17:20
-			
-				17:40
-			
-				18:00
-			
-				18:20
-			
-				18:50
-			
-				19:20
-			
-				19:50
-			
-				20:20
-			
-				20:50
-		
-		
-			
-				ENAC
-			
-				14:16
-			
-				14:46
-			
-				15:16
-			
-				15:46
-			
-				16:06
-			
-				16:26
-			
-				16:46
-			
-				17:06
-			
-				17:26
-			
-				17:46
-			
-				18:06
-			
-				18:26
-			
-				18:56
-			
-				19:26
-			
-				19:56
-			
-				20:26
-			
-				20:56
-		
-		
-			
-				Marcel Dassault
-			
-				14:21
-			
-				14:51
-			
-				15:21
-			
-				15:51
-			
-				16:11
-			
-				16:31
-			
-				16:51
-			
-				17:11
-			
-				17:31
-			
-				17:51
-			
-				18:11
-			
-				18:31
-			
-				19:01
-			
-				19:31
-			
-				20:01
-			
-				20:31
-			
-				21:00
-		
-		
-			
-				Cité de l'Espace
-			
-				14:24
-			
-				14:54
-			
-				15:24
-			
-				15:54
-			
-				16:14
-			
-				16:34
-			
-				16:54
-			
-				17:14
-			
-				17:34
-			
-				17:54
-			
-				18:14
-			
-				18:34
-			
-				19:04
-			
-				19:34
-			
-				20:04
-			
-				20:34
-			
-				21:03
-		
-		
-			
-				Coquille
-			
-				14:36
-			
-				15:06
-			
-				15:36
-			
-				16:06
-			
-				16:26
-			
-				16:46
-			
-				17:06
-			
-				17:26
-			
-				17:46
-			
-				18:06
-			
-				18:26
-			
-				18:46
-			
-				19:15
-			
-				19:45
-			
-				20:15
-			
-				20:44
-			
-				21:13
-		
-		
-			
-				Jolimont
-			
-				14:41
-			
-				15:11
-			
-				15:41
-			
-				16:11
-			
-				16:31
-			
-				16:51
-			
-				17:11
-			
-				17:31
-			
-				17:51
-			
-				18:11
-			
-				18:31
-			
-				18:51
-			
-				19:20
-			
-				19:50
-			
-				20:20
-			
-				20:49
-			
-				21:18
-		
-	
-
- 
-
-	Itinéraire dimanches et jours fériés
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-42</url><lineDisturbed><line name="Ligne 42 - Déviation rue de Bayard" shortname="42" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 37 - Modification itinéraire dimanches et jours fériés]]></title><content mode="text"><![CDATA[
+	Modification itinéraire dimanches et jours fériés
 A partir du dimanche 8 septembre 2013, la ligne 37 Jolimont / Ramonville Métro emprunte le même itinéraire les dimanches et jours fériés qu’en semaine. Les arrêts Crêtes, Monié, Assalit, Savignac, Providence et Colombette, situés avenue de la Gloire, ainsi que le terminus Marengo-SNCF, sont desservis les dimanches et jours fériés par la ligne 23.
 	La nouvelle fiche horaire de la ligne applicable le lundi 2 septembre 2013 intégrant cette modification est disponible dès le 29 août, dans les agences et salles d'attente Tisséo, les mairies et très prochainement sur notre site internet.
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-37</url><lineDisturbed><line name="Ligne 37 - Rectificatif horaires &quot;lundi à samedi&quot; du 8 juillet au 24 août 2013, modification itinéraire dimanches et arrêts supprimés" shortname="37" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 35 - Déviation à Balma]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-37</url><lineDisturbed><line name="Ligne 37 - Modification itinéraire dimanches et jours fériés" shortname="37" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 35 - Déviation à Balma]]></title><content mode="text"><![CDATA[
 	Déviation à Balma
-En raison de travaux avenue Gaston Doumergue à Balma, du 8 juillet au 25 août 2013, la ligne 35 est déviée.
+En raison de travaux avenue Gaston Doumergue à Balma, du 8 juillet au 27 août 2013, la ligne 35 est déviée.
 
 	
 		Arrêts non desservis : La Fount, Doumergue, Banque Populaire.
@@ -3205,13 +2186,22 @@ L'arrêt "Bîmes" n'est plus desservi par la ligne 16.
 	Il se situe désormais rue des Troènes (direction Aéroconstellation) et chemin des Sept Deniers (direction Jeanne d'Arc).
 Le terminus "Stade E. Wallon" n'est plus desservi par la ligne 16.
 	L'arrêt est repris par la ligne 70, en direction d'Aéroconstellation uniquement.
+	Il est déplacé à l'intersection de la rue des Troènes et de la rue des Peupliers.
 	En direction de Jeanne d'Arc, vous pouvez vous reporter à l'arrêt "Bîmes" de la ligne 70, situé chemin des Sept Deniers.
 L'arrêt "Pont de Blagnac" de la ligne 16 est définitivement supprimé.
 	Vous pouvez vous reporter à l'arrêt "Roques" situé chemin de la Garonne.
 Les arrêts "Bachelier", Riquet" et le terminus "Marengo SNCF" ne sont plus desservis par la ligne 16 en soirée.
 	Vous pouvez vous reporter à l'arrêt "Jean Jaurès".
 	Ces deux arrêts et le terminus "Marengo - SNCF" restent desservis par la ligne 22S.
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-16</url><lineDisturbed><line name="Lignes 16 et 16S - Déviation route de Blagnac, service Linéo dès la rentrée, nouvel itinéraire et arrêts modifiés ou supprimés" shortname="16" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 109 - Fiche horaire été et modification d'horaires ]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-16</url><lineDisturbed><line name="Lignes 16 et 16S - Déviation route de Blagnac, service Linéo dès la rentrée, nouvel itinéraire et arrêts modifiés ou supprimés" shortname="16" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Lignes 12, 12S - Déviation route de Seysses]]></title><content mode="text"><![CDATA[
+	Déviation route de Seysses
+En raison de travaux route de Seysses, à Toulouse, du 26 au 28 août 2013, les lignes 12 et 12S sont déviées direction Cours Dillon uniquement.
+
+	
+		Arrêts non desservis : Bordelongue, Touraine, Bernadette, Orbesson et Barrière de Muret.
+
+Les arrêts des lignes 3 et 52 (situés route d'Espagne) sont desservis sur l'itinéraire de déviation. 
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-12</url><lineDisturbed><line name="Lignes 12, 12S - Déviation route de Seysses" shortname="12" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 109 - Fiche horaire été et modification d'horaires ]]></title><content mode="text"><![CDATA[
 	Fiche horaire été
 Les horaires "lundi à samedi" de la fiche horaire été de la ligne 109, applicable du lundi 24 juin au dimanche 1er septembre 2013 sont disponibles dès le jeudi 20 juin, dans les agences et les salles d’attente Tisséo ainsi que dans les mairies.
  
@@ -3268,22 +2258,16 @@ En raison de la prolongation des travaux du tram ligne Garonne, jusqu'au samedi 
 	 
 	Nous comptons sur votre participation.
 ]]></content><url>http://www.tisseo.fr/info-tisseo/panel-tisseo</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 17 - Reprise de la ligne, desserte modifiée à Mondonville et arrêt supprimé]]></title><content mode="text"><![CDATA[
-	Ligne suspendue
-Les lignes 17, 30, 44, 51, 71 sont suspendues du samedi 6 juillet au dimanche 25 août.
-
 	Reprise de la ligne
 La ligne 17 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août.
-Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, les mairies
+Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, ainsi que les mairies.
+ 
 
-	Desserte modifiée à Mondonville
-A partir du lundi 26 août 2013, l'arrêt Foyer Rural Mondonville est desservi direction Andromède Lycée uniquement.
-Une nouvelle fiche horaire de la ligne applicable au lundi 26 août 2013 intégrant cette modification est disponible à partir du jeudi 22 août, dans les agences et salles et d'attente Tisséo ainsi que dans les mairies et très prochainement sur notre site internet.
-
-	Arrêt supprimé
-A partir du lundi 2 septembre 2013, avec le changement d'itinéraire de la ligne 17 à Mondonville, le réseau Tisséo évolue.
-	L'arrêt "Taillandier" n'est plus desservi par la ligne 17.
-	Cet arrêt reste desservi par les TAD 118 et 120.
-	Vous pouvez vous reporter au terminus "Mondonville Eglise" de la ligne 17.
+	Desserte modifiée à Mondonville et arrêt supprimé
+A partir du lundi 26 août 2013, avec le changement d'itinéraire de la ligne 17 à Mondonville, le réseau Tisséo évolue :
+	- l'arrêt Foyer Rural Mondonville est desservi direction Andromède Lycée uniquement,
+	- L'arrêt "Taillandier" n'est plus desservi par la ligne 17. Cet arrêt reste desservi par les TAD 118 et 120. Vous pouvez vous reporter au terminus "Mondonville Eglise" de la ligne 17.
+La nouvelle fiche horaire de la ligne 17 applicable au lundi 26 août 2013 intégrant cette modification est disponible à partir du jeudi 22 août, dans les agences et salles et d'attente Tisséo ainsi que dans les mairies.
 ]]></content><url>http://www.tisseo.fr/info-r%C3%A9seau/ligne-17-nouvel-itin%C3%A9raire-et-d%C3%A9viation</url><lineDisturbed><line name="Ligne 17 - Reprise de la ligne, desserte modifiée à Mondonville et arrêt supprimé" shortname="17" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 14 - Déviation rue Laganne]]></title><content mode="text"><![CDATA[
 	Déviation rue Laganne
 En raison de travaux rue Charles Laganne, à Toulouse, du 26 au 30 août 2013, la ligne 14 est déviée direction Marengo – SNCF uniquement.
@@ -3294,7 +2278,7 @@ En raison de travaux rue Charles Laganne, à Toulouse, du 26 au 30 août 2013, l
 Correspondances métro :
 	St Cyprien – République (ligne A), Compans Caffarelli, et Jeanne d'Arc (ligne B).
 	 
-]]></content><url>http://www.tisseo.fr/info-r%C3%A9seau/ligne-14-d%C3%A9viation-avenue-grande-bretagne</url><lineDisturbed><line name="Ligne 14 - Déviation rue Laganne" shortname="14" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 59 - Déviation à Gagnac-sur-Garonne, modification horaire, nouvel itinéraire par Espace Garonne et arrêts non desservis]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/info-r%C3%A9seau/ligne-14-d%C3%A9viation-avenue-grande-bretagne</url><lineDisturbed><line name="Ligne 14 - Déviation rue Laganne" shortname="14" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 59 - Déviation à Gagnac-sur-Garonne, nouvel itinéraire par Espace Garonne et arrêts non desservis]]></title><content mode="text"><![CDATA[
 	Déviation à Gagnac-sur-Garonne
 En raison de travaux rue du Terrial, à Gagnac-sur-Garonne, du 19 au 30 août 2013, la ligne 59 est déviée dans les 2 sens.
 
@@ -3306,21 +2290,15 @@ Du 31 août au 19 septembre 2013, la ligne 59 est déviée direction La Vache u
 	
 		Arrêts non desservis direction La Vache : Amandiers, Eglise Gagnac, Espace Garonne (ex Mairie Gagnac).
 
+ 
 
-	Modification horaire
-Du mercredi 17 juillet au vendredi 23 août 2013, le départ de 15 h 40 de Lespinasse Mairie est retardé à 15 h 45.
-	Les horaires de passage aux arrêts suivants sont également retardés de 5 minutes.
-
-	Nouvel itinéraire par Espace Garonne
+	Nouvel itinéraire par Espace Garonne et arrêts non desservis
 A compter du lundi 2 septembre 2013, les travaux en cours sur le secteur de Gagnac-sur-Garonne font évoluer l'itinéraire de la ligne 59 ; la desserte du secteur La Beauté se limite à la desserte des arrêts Eglise Gagnac et Espace Garonne.
-La nouvelle fiche horaire de la ligne applicable au lundi 2 septembre 2013, intégrant ces modifications est disponible dès le jeudi 29 août dans les agences et salles d'attente Tisséo, dans les mairies et très prochainement sur notre site internet.
-
-	Arrêts non desservis
-A partir du lundi 2 septembre 2013, avec le changement d'itinéraire de la ligne 59, au niveau de Gagnac-sur-Garonne, le réseau Tisséo évolue.
-	Les arrêts "Hire", "Albefeuille", "Beauté" et "Turret" sont temporairement non desservis pour cause de travaux.
+Les arrêts "Hire", "Albefeuille", "Beauté" et "Turret" sont temporairement non desservis pour cause de travaux.
 	Vous pouvez vous reporter aux arrêts "Eglise Gagnac" et "Amandiers".
 	A noter : l'arrêt "Mairie Gagnac" est renommé "Espace Garonne".
-]]></content><url>http://www.tisseo.fr/info-r%C3%A9seau/info-d%C3%A9viation-lignes-59</url><lineDisturbed><line name="Ligne 59 - Déviation à Gagnac-sur-Garonne, modification horaire, nouvel itinéraire par Espace Garonne et arrêts non desservis" shortname="59" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Service bus : fiches horaires tram et bus été et lignes suspendues]]></title><content mode="text"><![CDATA[
+La nouvelle fiche horaire de la ligne applicable au lundi 2 septembre 2013 intégrant ces modifications, est disponible dès le jeudi 29 août dans les agences et salles d'attente Tisséo, ainsi que dans les mairies.
+]]></content><url>http://www.tisseo.fr/info-r%C3%A9seau/info-d%C3%A9viation-lignes-59</url><lineDisturbed><line name="Ligne 59 - Déviation à Gagnac-sur-Garonne, nouvel itinéraire par Espace Garonne et arrêts non desservis" shortname="59" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Service bus : fiches horaires tram et bus été et lignes suspendues]]></title><content mode="text"><![CDATA[
 	Fiches horaires tram et  bus été 2013
 Les fiches horaires été applicables du lundi 1er juillet au dimanche 1er septembre 2013 sont disponibles à partir du jeudi 27 juin dans les agences et les salles d’attente Tisséo ainsi que dans les mairies.
 Les fiches horaires été des lignes suivantes fonctionnent avec des dates d'application différentes :
