@@ -18,16 +18,40 @@ def index
 def charge
 
 @chargement = "Commence"
-puts "************************************************"
-fichier = params['fichier']
-fichierx = fichier.split('.')
-le_model= fichierx[0].capitalize[0..-2]
-puts "Table #{fichier} reconstruite et vide et le_model= #{le_model}"
-klass = Object.const_get "StopTime"
-klass.parcoursCsv(fichier)
-puts klass
-redirect_to trips_index_path , notice:  " Import CSV reussie,  #{@compte} enregistrements"
+ puts "************************************************"
+ fichier = params['fichier']
+
+ le_model = morcelle(fichier)
+ 
+ puts "Table #{fichier} reconstruite et vide et le_model= #{le_model}"
+ klass = Object.const_get 'StopTime'
+ klass.parcoursCsv(fichier)
+ puts klass
+ morcelle(fichier)
+ redirect_to trips_index_path , notice:  " Import CSV reussie,  #{@compte} enregistrements"
  
 end
+#-------------------------------------------
+# morcelle prend un nom de variable de type
+# un_deux_trois.txt et le "Camelcasise", enleve
+# le suffixe "txt" ou 'cvs' ..ect et enleve le "s" final
+# pour rendre "UnDeuxTroi" Utile pour modifier les noms de 
+# modele entre la table(plurielle) et son modele (sing)
+#
+#-------------------------------------------
+def morcelle(chameau)
+	cham = chameau.split('.')
+	chamx = cham[0].split('_')
+		if chamx.length > 1 
+			mots = chamx.collect{ |mot| mot.capitalize}.join('')
+			mots = mots[0..-2]
+		else
+			mots = cham[0].capitalize[0..-2]	
+		end
+end
+
+
+
+
 end
 

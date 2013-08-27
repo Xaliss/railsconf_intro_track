@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><messages expirationDate="2013-08-26 21:57" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/MessagesList.xsd"><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Ca va bouger à la rentrée !]]></title><content mode="text"><![CDATA[La métropole toulousaine s’enrichit de plusieurs milliers de nouveaux habitants chaque année, rendant nécessaire l’évolution du réseau Tisséo.
+<?xml version="1.0" encoding="UTF-8"?><messages expirationDate="2013-08-27 14:24" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/MessagesList.xsd"><message type="communication" importanceLevel="normal" scope=""><title><![CDATA[Ca va bouger à la rentrée !]]></title><content mode="text"><![CDATA[La métropole toulousaine s’enrichit de plusieurs milliers de nouveaux habitants chaque année, rendant nécessaire l’évolution du réseau Tisséo.
 	
 	Dès le 2 septembre, de nombreuses lignes de bus sont créées ou améliorées afin de permettre une desserte rapide et efficace en transports publics sur l’ensemble de la métropole.
 	
@@ -29,7 +29,7 @@ La fiche horaire de la nouvelle ligne applicable au lundi 26 août 2013, est dis
 	Du nouveau dans le Muretain
 A compter du lundi 2 septembre 2013, la nouvelle ligne 116 assure une liaison entre Saint-Lys Piscine et Tournefeuille Lycée et offre des correspondances avec les lignes 55, 63, 65 et 67.
 La fiche horaire de la nouvelle ligne applicable au lundi 2 septembre 2013, est disponible dans les agences et salles d'attente Tisséo, ainsi que dans les mairies, à partir du jeudi 22 août et très prochainement sur notre site internet.
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-116</url><lineDisturbed><line name="Ligne 116 - Du nouveau dans le Muretain" shortname="Collège Chaumeton 8" network="Tisséo" /><line name="Ligne 116 - Du nouveau dans le Muretain" shortname="116" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 113 - Nouvelle ligne entre Pechbonnieu et Fenouillet]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-116</url><lineDisturbed><line name="Ligne 116 - Du nouveau dans le Muretain" shortname="116" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 113 - Nouvelle ligne entre Pechbonnieu et Fenouillet]]></title><content mode="text"><![CDATA[
 	Nouvelle ligne entre Pechbonnieu et Fenouillet
 A compter du lundi 2 septembre 2013, la nouvelle ligne 113 assure une liaison entre Fenouillet Croix et Pechbonnieu Collège et offre des correspondances avec les lignes 33, 59, 60, 61 et 69.
 La fiche horaire de la nouvelle ligne applicable au lundi 2 septembre 2013, est disponible dans les agences et salles d'attente Tisséo, ainsi que dans les mairies à partir du jeudi 29 août et très prochainement sur notre site internet.
@@ -561,7 +561,48 @@ La nouvelle fiche horaire de la ligne tram T1 applicable le 26 août 2013, est d
 	Désormais vous pouvez saisir directement le nom d'une rue et le numéro de voirie lors de votre recherche, le calculateur vous dirigera alors vers l'arrêt le plus proche tout en vous précisant la distance piétonne à parcourir et le temps nécessaire pour y arriver.
 
 	Le calcul d'itinéraire par arrêt reste également toujours possible.
-]]></content><url>http://www.tisseo.fr/info-tisseo/nouveau-calculateur-adresse-a-adresse</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 30 - Reprise de la ligne et nouvel itinéraire par la Zone Industrielle du Terroir]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/info-tisseo/nouveau-calculateur-adresse-a-adresse</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 120 - Déviation à Cornebarrieu]]></title><content mode="text"><![CDATA[
+	Déviation à Cornebarrieu
+En raison de travaux rue du Pont Vieux, à Cornebarrieu, les 27 et 28 août 2013, la ligne 17 et le TAD 120 sont déviés.
+
+	
+		Arrêts non desservis : Mairie de Cornebarrieu et St-Jean.
+
+ 
+.
+	 
+ 
+
+	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	
+		 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-120</url><lineDisturbed><line name="TAD 120 - Déviation à Cornebarrieu" shortname="TAD 120" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 30 - Reprise de la ligne et nouvel itinéraire par la Zone Industrielle du Terroir]]></title><content mode="text"><![CDATA[
 	Reprise de la ligne
 La ligne 30 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août.
 
@@ -573,7 +614,7 @@ La nouvelle fiche horaire de la ligne applicable au lundi 26 août 2013, intégr
 En raison du renouvellement de la cabine, l’ascenseur extérieur de la station Jean Jaurès, situé côté pair des allées Jean Jaurès est indisponible. Remise en service prévue le 3 septembre 2013. 
 
 	Ascenseur Jolimont
-A partir du lundi 17 juin 2013, l’ascenseur reliant l'extérieur de la station Jolimont (partie basse) à la salle des billets, est indisponible, afin de permettre le renouvellement de la cabine. Remise en service prévue le 26 août 2013.
+A partir du lundi 17 juin 2013, l’ascenseur reliant l'extérieur de la station Jolimont (partie basse) à la salle des billets, est indisponible, afin de permettre le renouvellement de la cabine. Remise en service prévue le 10 septembre 2013.
 
 	Ascenseur Esquirol
 A partir du lundi 29 juillet 2013, l’ascenseur donnant accès aux quais de la station Esquirol est indisponible afin de permettre des travaux de renouvellement. Remise en service prévue le 9 septembre 2013.
@@ -603,15 +644,7 @@ Une nouvelle fiche horaire est disponible dès le jeudi 12 septembre 2013, dans 
 A partir du mercredi 23 janvier 2013, de nouveaux horaires et itinéraires sont mis en place sur le TAD 119.
 	Les  départs de 7 h 00, 7 h 30, 8 h 00 et 8 h 30 sont avancés de 5 minutes.
 Certains itinéraires s’effectuent via une correspondance  (TAD ou lignes 81 et 62). 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-119</url><lineDisturbed><line name="TAD 119 - Rectificatif horaires" shortname="TAD 119" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 106 - Déviation à Balma ]]></title><content mode="text"><![CDATA[
-	Déviation à Balma
-En raison de travaux route de Lavaur à Balma, les 26 et 27 août 2013 entre 06 h 30 et 13 h 30, les lignes 20 (direction Montrabé Stade), 74 (direction Rouffiac-Tolosan) et le TAD 106 sont déviés.
-
-	
-		Arrêt non desservi direction banlieue : ZI Montredon.
-
-Un arrêt provisoire est situé chemin de Lagarrigue (avant le rond-point de la route de Lavaur.
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-106</url><lineDisturbed><line name="TAD 106 - Déviation à Balma " shortname="TAD 106" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 105 - Nouvel itinéraire La Vache / Saint-Jory]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/tad-119</url><lineDisturbed><line name="TAD 119 - Rectificatif horaires" shortname="TAD 119" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[TAD 105 - Nouvel itinéraire La Vache / Saint-Jory]]></title><content mode="text"><![CDATA[
 	Nouvel itinéraire La Vache / Saint-Jory
 A partir du lundi 2 septembre 2013, l'itinéraire du TAD 105 est prolongé afin de desservir la commune de Saint-Jory au départ de la station La Vache.
 
@@ -639,7 +672,7 @@ Une nouvelle fiche horaire applicable au lundi 2 septembre 2013 intégrant ces m
 	Entre 10h et 12h.
 	 
 Pour plus d'informations, contactez nous directement : contact.maisonmobilitelabege@tisseo.fr
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-tisseo/programme-maison-de-la-mobilite</url></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Réaménagement des stations Marengo - SNCF et Jean Jaurès]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-tisseo/programme-maison-de-la-mobilite</url></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Réaménagement des stations Marengo - SNCF, Jean Jaurès et escalier desservant la passerelle à Bellefontaine]]></title><content mode="text"><![CDATA[
 	Station Marengo - SNCF : création d'un escalier supplémentaire
 Dans le cadre de travaux d'amélioration de la station, un réaménagement de l'accès aux quais par la création d'un escalier débute le lundi 3 décembre 2012.
 	Fin des travaux : été 2013
@@ -651,18 +684,29 @@ Afin d'améliorer le confort et la sécurité des voyageurs, à partir du lundi�
 	Durée des travaux : de janvier à décembre 2013.
 Pour le confort de votre trajet sur la ligne A pendant les travaux, notamment aux heures de pointe, pensez à utiliser les stations Capitole ou Marengo - SNCF.
 	La correspondance entre les lignes A et B peut également se faire à pied entre les stations Esquirol et Carmes.
+
+	Station Bellefontaine :
+	Indisponibilité de l'escalier desservant la passerelle.
+
+	En raison de travaux de réfection, l'escalier reliant la salle des billets à la passerelle n'est pas accessible du mercredi 4 septembre au mercredi 18 septembre 2013.
+Pour rejoindre la passerelle depuis la salle des billets, merci d'emprunter l'ascenseur.
+Conscient de la gêne occasionnée, Tisséo met tout en œuvre pour réduire le délai d’indisponibilité de cet escalier.
+ 
+
+	 
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/info-evenementielle</url></message><message type="trafic" importanceLevel="normal" scope="global"><title><![CDATA[Info - Service tram et bus : nouvelles fiches horaires]]></title><content mode="text"><![CDATA[
 	Service tram et bus : nouvelles fiches horaires
 Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, ainsi que dans les mairies.
 	Les autres lignes de bus ainsi que les TAD ayant des horaires applicables dès le lundi 2 septembre 2013 sont disponibles à partir du jeudi 29 août.
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/info-globale-3</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Lignes 81 et 81S - Déviation à Ramonville St-Agne]]></title><content mode="text"><![CDATA[
-	Déviation à Ramonville St-Agne
-En raison de travaux avenue Tolosane à Ramonville Saint-Agne, la nuit du 26 au 27 août 2013 entre 20 h 00 et 06 h 00, les lignes 81 et 81S sont déviées.
-
-	
-		Arrêt non desservi : Chaumière.
-
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-81</url><lineDisturbed><line name="Lignes 81 et 81S - Déviation à Ramonville St-Agne" shortname="81" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Lignes 78 et 78S - Déviation à St-Orens de Gameville]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/info-globale-3</url></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 114 - Validation des titres de transport]]></title><content mode="text"><![CDATA[
+	Validation des titres de transport
+A compter du lundi 2 septembre 2013, des valideurs sont installés dans les véhicules des lignes 110 et 114.
+	Pensez à valider votre ticket ou votre carte pastel Tisséo en montant à bord du bus.
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-114</url><lineDisturbed><line name="Ligne 114 - Validation des titres de transport" shortname="114" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 110 - Validation des titres de transport ]]></title><content mode="text"><![CDATA[
+	Validation des titres de transport
+A compter du lundi 2 septembre 2013, des valideurs sont installés dans les véhicules des lignes 110 et 114.
+	Pensez à valider votre ticket ou votre carte pastel Tisséo en montant à bord du bus.
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-110</url><lineDisturbed><line name="Ligne 110 - Validation des titres de transport " shortname="110" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Lignes 78 et 78S - Déviation à St-Orens de Gameville]]></title><content mode="text"><![CDATA[
 	Déviation à St-Orens de Gameville
 En raison de travaux, rue des Améthystes à St-Orens de Gameville, du 29 août au 1er septembre 2013, les lignes 78 et 78S sont déviées.
 
@@ -679,15 +723,7 @@ En raison de travaux rue du Stade, à Castelmaurou, du 26 juin au 30 août 2013,
 	
 		Arrêts non desservis : Truffaut et Stade
 
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-75</url><lineDisturbed><line name="Ligne 75 - Déviation à Castelmaurou " shortname="75" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 74 - Déviation à balma]]></title><content mode="text"><![CDATA[
-	Déviation à Balma
-En raison de travaux route de Lavaur à Balma, les 26 et 27 août 2013 entre 06 h 30 et 13 h 30, les lignes 20 (direction Montrabé Stade), 74 (direction Rouffiac-Tolosan) et le TAD 106 sont déviés.
-
-	
-		Arrêt non desservi direction banlieue : ZI Montredon.
-
-Un arrêt provisoire est situé chemin de Lagarrigue (avant le rond-point de la route de Lavaur).
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-74</url><lineDisturbed><line name="Ligne 74 - Déviation à balma" shortname="74" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 72 - Déviation à Balma]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-75</url><lineDisturbed><line name="Ligne 75 - Déviation à Castelmaurou " shortname="75" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 72 - Déviation à Balma]]></title><content mode="text"><![CDATA[
 	Déviation à Balma
 En raison de travaux route de Mons, à Balma, du 1er juillet au 31 août 2013, la ligne 72 est déviée direction Balma Gramont uniquement.
 
@@ -2132,22 +2168,13 @@ Une nouvelle fiche horaire applicable au lundi 2 septembre 2013, intégrant ces 
 ]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-23</url><lineDisturbed><line name="Ligne 23 -  Service étendu au dimanche dès la rentrée" shortname="23" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 22 -  Fiche horaire été ]]></title><content mode="text"><![CDATA[
 	Fiche horaire été
 La fiche horaire été applicable du lundi 1er juillet au dimanche 1er septembre 2013 est disponible à partir du jeudi 27 juin dans les agences et les salles d’attente Tisséo ainsi que dans les mairies.
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-22</url><lineDisturbed><line name="Ligne 22 -  Fiche horaire été " shortname="22" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 20 - Nouvel itinéraire Balma-Gramont / Beaupuy Mairie dès la rentrée et déviation à Balma]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-22</url><lineDisturbed><line name="Ligne 22 -  Fiche horaire été " shortname="22" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 20 - Nouvel itinéraire Balma-Gramont / Beaupuy Mairie dès la rentrée]]></title><content mode="text"><![CDATA[
 	Nouvel itinéraire Balma-Gramont / Beaupuy Mairie
 A compter du lundi 2 septembre 2013, l'itinéraire de la ligne 20 est prolongé.
 	Au départ de Balma-Gramont, la ligne dessert la commune de Montrabé et poursuit son itinéraire jusqu'à son nouveau  terminus Beaupuy Mairie.
 La nouvelle fiche horaire de la ligne applicable au lundi 2 septembre 2013, intégrant ces modifications, est disponible
 	dès le jeudi 29 août dans les agences et salle d'attente Tisséo, dans les mairies et très prochainement sur notre site internet.
- 
-
-	Déviation à Balma
-En raison de travaux route de Lavaur à Balma, les 26 et 27 août 2013 entre 06 h 30 et 13 h 30, les lignes 20 (direction Montrabé Stade), 74 (direction Rouffiac-Tolosan) et le TAD 106 sont déviés.
-
-	
-		Arrêt non desservi direction banlieue : ZI Montredon.
-
-Un arrêt provisoire est situé chemin de Lagarrigue (avant le rond-point de la route de Lavaur).
-]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-20</url><lineDisturbed><line name="Ligne 20 - Nouvel itinéraire Balma-Gramont / Beaupuy Mairie dès la rentrée et déviation à Balma" shortname="20" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Lignes 16 et 16S - Déviation route de Blagnac, service Linéo dès la rentrée, nouvel itinéraire et arrêts modifiés ou supprimés]]></title><content mode="text"><![CDATA[
+]]></content><url>http://www.tisseo.fr/se-deplacer/info-reseau/ligne-20</url><lineDisturbed><line name="Ligne 20 - Nouvel itinéraire Balma-Gramont / Beaupuy Mairie dès la rentrée" shortname="20" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Lignes 16 et 16S - Déviation route de Blagnac, service Linéo dès la rentrée, nouvel itinéraire et arrêts modifiés ou supprimés]]></title><content mode="text"><![CDATA[
 	Déviation route de Blagnac
 En raison de travaux route de Blagnac à Toulouse, du mardi 27 août à 21 h 00 au mercredi 28 août à 05 h 45, les lignes 16, 16S et 70 sont déviées.
 
@@ -2261,13 +2288,20 @@ En raison de la prolongation des travaux du tram ligne Garonne, jusqu'au samedi 
 	Reprise de la ligne
 La ligne 17 reprend son service le lundi 26 août 2013. Les horaires "lundi à vendredi vacances scolaires" s'appliquent du 26 au 30 août.
 Les fiches horaires applicables dès le lundi 26 août 2013 pour les lignes T1, 1, 17, 30, 44, 51, 71 et 117 sont disponibles à partir du jeudi 22 août dans les agences, les salles d’attente Tisséo, ainsi que les mairies.
- 
 
 	Desserte modifiée à Mondonville et arrêt supprimé
 A partir du lundi 26 août 2013, avec le changement d'itinéraire de la ligne 17 à Mondonville, le réseau Tisséo évolue :
 	- l'arrêt Foyer Rural Mondonville est desservi direction Andromède Lycée uniquement,
 	- L'arrêt "Taillandier" n'est plus desservi par la ligne 17. Cet arrêt reste desservi par les TAD 118 et 120. Vous pouvez vous reporter au terminus "Mondonville Eglise" de la ligne 17.
 La nouvelle fiche horaire de la ligne 17 applicable au lundi 26 août 2013 intégrant cette modification est disponible à partir du jeudi 22 août, dans les agences et salles et d'attente Tisséo ainsi que dans les mairies.
+
+	Déviation à Cornebarrieu
+En raison de travaux rue du Pont Vieux, à Cornebarrieu, les 27 et 28 août 2013, la ligne 17 et le TAD 120 sont déviés.
+
+	
+		Arrêts non desservis : Mairie de Cornebarrieu et St-Jean.
+
+ 
 ]]></content><url>http://www.tisseo.fr/info-r%C3%A9seau/ligne-17-nouvel-itin%C3%A9raire-et-d%C3%A9viation</url><lineDisturbed><line name="Ligne 17 - Reprise de la ligne, desserte modifiée à Mondonville et arrêt supprimé" shortname="17" network="Tisséo" /></lineDisturbed></message><message type="trafic" importanceLevel="normal" scope="line"><title><![CDATA[Ligne 14 - Déviation rue Laganne]]></title><content mode="text"><![CDATA[
 	Déviation rue Laganne
 En raison de travaux rue Charles Laganne, à Toulouse, du 26 au 30 août 2013, la ligne 14 est déviée direction Marengo – SNCF uniquement.

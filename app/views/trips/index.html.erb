@@ -1,6 +1,6 @@
 <h1>Trip Index Page</h1>
 
-<%=form_tag   trips_charge_path %>
+<%=form_tag   trips_charge_path , multipart: true do %>
 
 <div class='field'>
 <% flash.each do |name, msg| %>
@@ -17,7 +17,9 @@
 </div> 
 
 
-
+ 
+  <%= file_field_tag :file %>
+<% end %>
 
 
 

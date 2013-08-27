@@ -36,5 +36,5 @@ TddIntro::Application.routes.draw do
   	post '/trios/index'
 
 
-  root to: 'tasks#index'
+  root to: 'horaires#index'
 end

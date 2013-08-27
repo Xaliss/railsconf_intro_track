@@ -1,48 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<departures expirationDate="2013-08-26 23:32" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/DepartureBoard.xsd">
+<departures expirationDate="2013-08-27 13:54" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/DepartureBoard.xsd">
 <stop id="3377699720883885" operatorCode="15020" name="Halles - Mairie"/>
 <stopArea id="1970324840530375" name="Halles - Mairie" cityName="CASTANET-TOLOSAN" cityId="1688849860531049"/>
-<departure dateTime="2013-08-26 23:52:43" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+<departure dateTime="2013-08-27 14:15:25" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-27 00:22:42" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:45:25" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-26 23:42:44" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 15:15:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 15:46:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 16:16:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 16:43:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 17:06:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 17:30:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 17:49:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 18:24:42" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 13:55:35" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
-</departure><departure dateTime="2013-08-26 23:52:43" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
-<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-27 00:11:59" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:03:11" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
 <destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
-</departure><departure dateTime="2013-08-27 00:22:42" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:15:25" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-27 00:42:01" realTime="no">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:21:00" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
-</departure><departure dateTime="2013-08-26 23:42:44" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:36:20" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
 <destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
-</departure><departure dateTime="2013-08-26 23:52:43" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:45:25" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-26 23:53:00" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
-<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-27 00:11:59" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:54:00" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
-</departure><departure dateTime="2013-08-27 00:22:42" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 15:11:20" realTime="no">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-27 15:15:25" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-27 00:22:59" realTime="yes">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 15:27:00" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-27 13:55:35" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-27 14:03:11" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-27 14:15:25" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
 <destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
-</departure><departure dateTime="2013-08-27 00:42:01" realTime="no">
-<line name="Université Paul Sabatier / Castanet -Tolosan" shortName="81s" network="Tisséo" color="(244,0,208)" />
+</departure><departure dateTime="2013-08-27 14:16:00" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 14:21:00" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-27 14:36:20" realTime="yes">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-27 14:45:25" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 14:46:00" realTime="yes">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Université Paul Sabatier" cityName="TOULOUSE"/>
+</departure><departure dateTime="2013-08-27 14:54:00" realTime="no">
+<line name="Université Paul Sabatier / Castanet-Tolosan" shortName="81" network="Tisséo" color="(244,0,208)" />
+<destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
+</departure><departure dateTime="2013-08-27 15:11:20" realTime="no">
+<line name="Malepère / Castanet-Tolosan" shortName="109" network="Tisséo" color="(255,94,22)" />
 <destination  name="Castanet-Tolosan" cityName="CASTANET-TOLOSAN"/>
 </departure>
 </departures>
