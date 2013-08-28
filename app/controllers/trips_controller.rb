@@ -4,9 +4,9 @@ class TripsController < ApplicationController
   require 'uri'
   require 'open-uri'
   require 'csv'
+	
 
 
- 
 def index
 
 @alimx = Dir.glob("app/assets/alim/*.csv")
@@ -16,7 +16,7 @@ def index
  
 
 def charge
-
+ 
 @chargement = "Commence"
  puts "************************************************"
  fichier = params['fichier']
@@ -24,10 +24,10 @@ def charge
  le_model = morcelle(fichier)
  
  puts "Table #{fichier} reconstruite et vide et le_model= #{le_model}"
- klass = Object.const_get 'StopTime'
- klass.parcoursCsv(fichier)
- puts klass
- morcelle(fichier)
+ klass = Object.const_get le_model
+ parcoursCsv(fichier,le_model)
+ puts klass 
+
  redirect_to trips_index_path , notice:  " Import CSV reussie,  #{@compte} enregistrements"
  
 end
@@ -49,7 +49,7 @@ def morcelle(chameau)
 			mots = cham[0].capitalize[0..-2]	
 		end
 end
-
+#-------------------------------------------
 
 
 

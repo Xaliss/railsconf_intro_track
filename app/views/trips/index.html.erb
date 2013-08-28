@@ -1,4 +1,4 @@
-<h1>Trip Index Page</h1>
+<h1>Mise &agrave; jour des Bases de Donn&eacute;es</h1>
 
 <%=form_tag   trips_charge_path , multipart: true do %>
 
@@ -18,7 +18,7 @@
 
 
  
-  <%= file_field_tag :file %>
+ 
 <% end %>
 
 
@@ -27,4 +27,4 @@
 <%=fichier%>
 <%end%>
 
- <%=@li%>
+ <br /> <%=@li.inspect%>

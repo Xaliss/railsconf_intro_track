@@ -91,7 +91,45 @@ end
 
 #//////////////////////////////////////////////////////
 
+#-------------------------------------------------------
+# Va lire une flatFile en csv contenant la liste des 
+# parcours actives du reseau
+
+def parcoursCsv(fichier,kklass)
+klass = Object.const_get kklass
+	puts "oooooooooooooooooooooooooooooooooooooooo"
+		
+		if success = klass.delete_all then puts "Table videe ! Chargement commence" end
+
+	puts "----------------------------------------"
+
+  asset_f1 = "app/assets/alim/#{fichier}"
+  puts asset_f1
+       
+      
+      compte = 0
+      @retourCsv=CSV.parse(File.read(asset_f1),:headers => true)
+      @retourCsv.each  do |rangee|
+      	parcours = klass.find_by_id(rangee["id"]) || klass.new
+      	parcours.attributes = rangee.to_hash.slice(*klass.accessible_attributes)
+      	 
+      	puts parcours.attributes
+        parcours.save!  
+ 		    compte +=1
+		    @chargement=compte
+		    @compte = compte
+		    puts   compte
+	 
+	 end
+      
+      
+
+     
+ 	puts  "Base de donnees chargee avec succes. #{@compte} enregistrements"
+end
 
 
+#-------------------------------------------------------
 
+#\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 end

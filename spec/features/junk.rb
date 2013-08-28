@@ -151,3 +151,21 @@ def self.parcoursCsv(fichier)
 end
 
 #-------------------------------------------------------
+
+<%@alimx.each  do |fichier| %> <br /> 
+<%=fichier%>
+<%end%>
+
+<%@alimx.each  do |fichier| %> <br /> 
+<%=fichier%>
+<%end%>
+
+  verify :params => [:fichier],
+ :render => {:action => "index"},
+ :add_flash => { :error => "Ne pas laisser vide" }
+
+ffmpeg -r 25 -s 1680x1050 -f x11grab -i :0.0 -vcodec msmpeg4v2 -qscale 2 videoMike.avi
+
+
+
+rspec spec/features/alimentator_controller_spec.rb  

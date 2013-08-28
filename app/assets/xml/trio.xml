@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>	
-<placesList expirationDate="2013-08-27 3:45" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/PlacesList.xsd">
+<placesList expirationDate="2013-08-29 3:45" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pt.data.tisseo.fr/xsd/PlacesList.xsd">
 
-<place label="Ecole Castanet (CASTANET-TOLOSAN)" category="Stops" key="Ecole Castanet CASTANET-TOLOSAN" className="stop" x="1.496341" y="43.519897" id="1970324837186499" rank="2"  network="Tisséo">
-</place><place label="Castanet-Tolosan (CASTANET-TOLOSAN)" category="Stops" key="Castanet-Tolosan CASTANET-TOLOSAN" className="stop" x="1.506932" y="43.508457" id="1970324838561174" rank="3"  network="Tisséo">
-</place><place label="Castanet République (CASTANET-TOLOSAN)" category="Stops" key="Castanet République CASTANET-TOLOSAN" className="stop" x="1.502396" y="43.516780" id="1970324837186503" rank="4"  network="Tisséo">
-</place><place label="Halles - Mairie (CASTANET-TOLOSAN)" category="Stops" key="Castanet-Tolosan-Eglise CASTANET-TOLOSAN" className="stop" x="1.498491" y="43.516183" id="1970324840530375" rank="5"  network="Tisséo">
-</place><place label="Centre commercial Castanet (CASTANET-TOLOSAN)" category="Stops" key="Centre commercial Castanet CASTANET-TOLOSAN" className="stop" x="1.513967" y="43.521125" id="1970324838482008" rank="6"  network="Tisséo">
-</place><place label="Rue de Castanet (TOULOUSE)" category="Roads" key="Rue de Castanet TOULOUSE" className="road" x="1.455704" y="43.572068"  rank="7"  >
-</place><place label="Parking (CASTANET-TOLOSAN)" category="Roads" key="Parking CASTANET-TOLOSAN" className="road" x="1.498890" y="43.516859"  rank="8"  >
-</place><place label="Escaliers (CASTANET-TOLOSAN)" category="Roads" key="Escaliers CASTANET-TOLOSAN" className="road" x="1.493850" y="43.521242"  rank="9"  >
-</place><place label="Rond-point (CASTANET-TOLOSAN)" category="Roads" key="Rond-point CASTANET-TOLOSAN" className="road" x="1.497178" y="43.520794"  rank="10"  >
-</place><place label="Rue du Fort (CASTANET-TOLOSAN)" category="Roads" key="Rue du Fort CASTANET-TOLOSAN" className="road" x="1.497835" y="43.515067"  rank="11"  >
-</place><place label="CASTANET-TOLOSAN" category="Cities" key="CASTANET-TOLOSAN" className="city" x="1.498491" y="43.516183"  rank="1"  >
+<place label="Jean Moulin (SAINT-JEAN)" category="Stops" key="Jean Moulin SAINT-JEAN" className="stop" x="1.498183" y="43.666785" id="1970324837190562" rank="1"  network="Tisséo">
+</place><place label="Jean Moulin (CASTANET-TOLOSAN)" category="Stops" key="Jean Moulin CASTANET-TOLOSAN" className="stop" x="1.510717" y="43.520898" id="1970324837189431" rank="2"  network="Tisséo">
+</place><place label="Avenue Jean Moulin (TOULOUSE)" category="Roads" key="Avenue Jean Moulin TOULOUSE" className="road" x="1.442635" y="43.583935"  rank="3"  >
+</place><place label="Rue Jean Moulin (SAINT-JEAN)" category="Roads" key="Rue Jean Moulin SAINT-JEAN" className="road" x="1.498992" y="43.665521"  rank="4"  >
+</place><place label="Rue Jean Moulin (REVEL)" category="Roads" key="Rue Jean Moulin REVEL" className="road" x="2.007006" y="43.458127"  rank="5"  >
+</place><place label="Rue Jean Moulin (LOMBEZ)" category="Roads" key="Rue Jean Moulin LOMBEZ" className="road" x="0.909914" y="43.475288"  rank="6"  >
+</place><place label="Rue Jean Moulin (SAMATAN)" category="Roads" key="Rue Jean Moulin SAMATAN" className="road" x="0.930333" y="43.493810"  rank="7"  >
 </place>
 </placesList>
